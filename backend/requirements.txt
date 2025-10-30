@@ -1,8 +1,7 @@
 fastapi==0.110.1
 uvicorn[standard]==0.29.0
 sqlalchemy==2.0.27
-postgresql+psycopg://neondb_owner:npg_Fl0Darhg5IRV@ep-shy-heart-adkufq2e-pooler.c-2.us-east-1.aws.neon.tech/neondb?sslmode=require
-
+psycopg[binary,pool]==3.1.18
 pgvector==0.2.5
 pydantic==1.10.14
 python-dotenv==1.0.1
