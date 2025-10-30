@@ -1,0 +1,46 @@
+version: "3.9"
+
+services:
+  db:
+    image: pgvector/pgvector:0.7.4-pg15
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-postgres}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-postgres}
+      POSTGRES_DB: ${POSTGRES_DB:-uae_legal}
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+    ports:
+      - "5433:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-postgres} -d ${POSTGRES_DB:-uae_legal}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  backend:
+    build:
+      context: .                      # ✅ 用项目根作为构建上下文
+      dockerfile: backend/Dockerfile  # ✅ 指定后端的 Dockerfile
+    depends_on:
+      db:
+        condition: service_healthy
+    env_file:
+      - backend/.env                  # ✅ 用后端自己的 .env（里有 DB_URL=postgresql+psycopg2://...）
+    ports:
+      - "${BACKEND_PORT:-8000}:8000"
+    # ✅ 不要再用 environment 覆盖 DB_URL，保持 .env 的 postgresql+psycopg2
+    # ✅ 不要在 compose 里再写 command，使用 Dockerfile 的 CMD（uvicorn backend.main:app）
+
+  frontend:
+    build:
+      context: ./frontend
+    depends_on:
+      - backend
+    environment:
+      NEXT_PUBLIC_API_BASE_URL: ${NEXT_PUBLIC_API_BASE_URL:-http://backend:8000}
+    ports:
+      - "${FRONTEND_PORT:-3000}:3000"
+
+volumes:
+  pg_data:
