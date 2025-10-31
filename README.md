@@ -143,6 +143,16 @@ docker compose exec backend python -m backend.utils.search_vector --query "tenan
 - `docker compose exec db psql -U postgres -d uae_legal -c "SELECT id, level, name FROM legal_slice LIMIT 5;"` 检查数据写入。
 - `curl -X POST http://localhost:8000/search -H "Content-Type: application/json" -d '{"query": "tenancy deposit"}'` 进行 API smoke test。
 
+## Render 部署提示
+
+- 根目录已包含 `runtime.txt` 与 `render.yaml`，Render 会自动使用 Python `3.11.9`，避免 Pydantic 1.x 与 Python 3.13 的兼容问题。
+- Render Web 服务配置示例：
+  - Root Directory: `.`（整个仓库）
+  - Build Command: `pip install -r requirements.txt`
+  - Start Command: `uvicorn backend.main:app --host 0.0.0.0 --port $PORT`
+  - 可在 Render 控制台添加 `DB_URL`、`PGVECTOR_DIM` 等环境变量或导入 `.env`。
+- 如果需部署前端，可额外创建一个 Static Site，使用 `frontend/` 目录运行 `npm install && npm run build`（deploy command `npm run build`，publish `frontend/out` 或使用 Next.js Serverless 方案）。
+
 ---
 
 > 本工具用于资讯检索与内部评估，不构成法律意见；请以官方文本为准。DIFC/ADGM 英文文本具有权威效力，联邦英文译本仅供参考。
