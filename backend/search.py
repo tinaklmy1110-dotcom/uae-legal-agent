@@ -9,8 +9,9 @@ from typing import Iterable, List, Optional, Sequence, Tuple
 
 import numpy as np
 from dateutil import parser as date_parser
-from sqlalchemy import and_, case, func, or_, select
+from sqlalchemy import String, and_, case, func, literal, or_, select
 from sqlalchemy.orm import Session
+from sqlalchemy.dialects import postgresql
 
 from .db import PGVECTOR_DIM, PGVECTOR_METRIC
 from .models import LegalSlice
@@ -90,7 +91,8 @@ def _build_filtered_query(
             )
 
     if filters.topics:
-        conditions.append(LegalSlice.topics.contains(filters.topics))
+        typed_topics = literal(filters.topics, postgresql.ARRAY(String()))
+        conditions.append(LegalSlice.topics.contains(typed_topics))
 
     if filters.as_of:
         conditions.append(LegalSlice.effective_from <= filters.as_of)
