@@ -18,6 +18,31 @@ from .models import LegalSlice
 
 EMBED_DIM = PGVECTOR_DIM
 
+# Simple query expansion map to bridge common user terminology to the language
+# present in the source statutes. This keeps placeholder embeddings useful for
+# production-like demos without pulling in a heavier NLP stack.
+QUERY_SYNONYMS = {
+    "anti-doping": [
+        "anti doping",
+        "prohibited substances",
+        "horse racing",
+        "equestrian sports",
+        "controlled substances",
+    ],
+    "anti doping": [
+        "prohibited substances",
+        "horse racing",
+        "equestrian sports",
+        "controlled substances",
+    ],
+    "doping": [
+        "prohibited substances",
+        "banned substances",
+        "horse racing",
+        "equestrian sports",
+    ],
+}
+
 
 @dataclass
 class SearchFilters:
@@ -132,26 +157,34 @@ def vector_search(
 def keyword_search(
     session: Session, query: str, filters: SearchFilters, k: int = 16
 ) -> Sequence[Tuple[LegalSlice, float]]:
-    terms = [term for term in re.split(r"\s+", query) if term]
-    if not terms:
+    term_groups = _build_term_groups(query)
+    if not term_groups:
         return []
 
     score_expr = None
     term_conditions = []
-    for term in terms:
-        pattern = f"%{term}%"
-        term_condition = or_(
-            LegalSlice.title.ilike(pattern),
-            LegalSlice.path.ilike(pattern),
-            LegalSlice.text_content.ilike(pattern),
-        )
-        term_conditions.append(term_condition)
-        term_score = (
-            case((LegalSlice.title.ilike(pattern), 3), else_=0)
-            + case((LegalSlice.path.ilike(pattern), 2), else_=0)
-            + case((LegalSlice.text_content.ilike(pattern), 1), else_=0)
-        )
-        score_expr = term_score if score_expr is None else score_expr + term_score
+    for group in term_groups:
+        group_conditions = []
+        group_score = None
+        for term in group:
+            pattern = f"%{term}%"
+            term_condition = or_(
+                LegalSlice.title.ilike(pattern),
+                LegalSlice.path.ilike(pattern),
+                LegalSlice.text_content.ilike(pattern),
+            )
+            group_conditions.append(term_condition)
+            term_score = (
+                case((LegalSlice.title.ilike(pattern), 3), else_=0)
+                + case((LegalSlice.path.ilike(pattern), 2), else_=0)
+                + case((LegalSlice.text_content.ilike(pattern), 1), else_=0)
+            )
+            group_score = term_score if group_score is None else group_score + term_score
+
+        if group_conditions:
+            term_conditions.append(or_(*group_conditions))
+        if group_score is not None:
+            score_expr = group_score if score_expr is None else score_expr + group_score
 
     stmt = select(LegalSlice, score_expr.label("score"))
     if score_expr is None:
@@ -167,6 +200,28 @@ def keyword_search(
     stmt = stmt.order_by(score_expr.desc(), LegalSlice.year.desc()).limit(k)
     rows = session.execute(stmt).all()
     return rows
+
+
+def _build_term_groups(query: str) -> List[List[str]]:
+    normalized = query.lower()
+    base_terms = [term for term in re.split(r"\s+", query.strip()) if term]
+    if not base_terms:
+        return []
+
+    groups: List[List[str]] = []
+
+    for term in base_terms:
+        key = term.lower()
+        group = [term]
+        group.extend(QUERY_SYNONYMS.get(key, []))
+        groups.append(group)
+
+    # Add phrase-level expansions if the phrase wasn't an explicit token
+    for phrase, additions in QUERY_SYNONYMS.items():
+        if phrase in normalized and all(phrase != term.lower() for term in base_terms):
+            groups.append(list(additions))
+
+    return groups
 
 
 def hybrid_search(

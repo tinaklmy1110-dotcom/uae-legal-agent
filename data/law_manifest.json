@@ -1,0 +1,5355 @@
+[
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-1-2014",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (1) of 2014 Regarding the Conciliation Rules and Conditions of the Violations Committed Against Federal Law No. 24 of 2006 Regarding Consumer Protection.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "1",
+      "year": 2014,
+      "title": "Regarding the Conciliation Rules and Conditions of the Violations Committed Against Federal Law No. 24 of 2006 Regarding Consumer Protection",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2025-10-29",
+    "topics": [
+      "consumer_protection",
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-102-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (102) of 2022 Promulgating the Administrative Penalties Regulations Regarding Acts Committed in Violation of the Provisions of Federal Decree by Law No. (32) of 2021 regarding Commercial Companies.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "102",
+      "year": 2022,
+      "title": "Promulgating the Administrative Penalties Regulations Regarding Acts Committed in Violation of the Provisions of Federal Decree by Law No. (32) of 2021 regarding Commercial Companies",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-11-04",
+    "topics": [
+      "commercial_regulation",
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-107-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (107) of 2022 Promulgating the Executive Regulations of Federal Decree by Law No. (37) of 2021 Concerning the Commercial Register.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "107",
+      "year": 2022,
+      "title": "Promulgating the Executive Regulations of Federal Decree by Law No. (37) of 2021 Concerning the Commercial Register",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-12-07",
+    "topics": [
+      "commercial_regulation",
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-109-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (109) of 2023 Regulating the Real Beneficiary Procedures.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "109",
+      "year": 2023,
+      "title": "Regulating the Real Beneficiary Procedures",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-11-06",
+    "topics": [
+      "beneficial_ownership",
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-11-2020",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (11) of 2020 Concerning the Executive Regulation of Federal Law No. (19) of 2016 on Combating Commercial Fraud.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "11",
+      "year": 2020,
+      "title": "Concerning the Executive Regulation of Federal Law No. (19) of 2016 on Combating Commercial Fraud",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-06-25",
+    "topics": [
+      "commercial_regulation",
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-111-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (111) of 2022 Regulating Virtual Assets and the Related Service Providers.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "111",
+      "year": 2022,
+      "title": "Regulating Virtual Assets and the Related Service Providers",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-12-12",
+    "topics": [
+      "economy",
+      "virtual_assets"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-118-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (118) of 2023 Concerning the Controls of the Policy of Pricing Waste for Industrial Use.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "118",
+      "year": 2023,
+      "title": "Concerning the Controls of the Policy of Pricing Waste for Industrial Use",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-11-27",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-119-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (119) of 2023 Concerning the Administrative Violations and Penalties Imposed on Violators of Provisions of Cabinet Resolution No. (118) of 2023 Concerning the Controls of the Policy of Pricing Waste for Industrial Use.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "119",
+      "year": 2023,
+      "title": "Concerning the Administrative Violations and Penalties Imposed on Violators of Provisions of Cabinet Resolution No. (118) of 2023 Concerning the Controls of the Policy of Pricing Waste for Industrial Use",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-11-27",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-119-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (119) of 2024 Regarding Approving the Integrated Customs Tariff Nomenclature According to the Harmonized Commodity Description and Coding System of the GCC States (2022) and its Updates.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "119",
+      "year": 2024,
+      "title": "Regarding Approving the Integrated Customs Tariff Nomenclature According to the Harmonized Commodity Description and Coding System of the GCC States (2022) and its Updates",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2025-01-01",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-120-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (120) of 2022 on the Rules and Controls for Pricing Consumer Goods in the State.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "120",
+      "year": 2022,
+      "title": "On the Rules and Controls for Pricing Consumer Goods in the State",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-09-27",
+    "topics": [
+      "consumer_protection",
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-123-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (123) of 2024 On the Approval of the Lists of Prohibited and Restricted Goods in the States of the GCC.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "123",
+      "year": 2024,
+      "title": "On the Approval of the Lists of Prohibited and Restricted Goods in the States of the GCC",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2025-01-01",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-132-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (132) of 2023 Concerning the Administrative Penalties Imposed on Violators of the Provisions of Cabinet Resolution No. (109) of 2023 Concerning the Regulation of Real Beneficiary Procedures.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "132",
+      "year": 2023,
+      "title": "Concerning the Administrative Penalties Imposed on Violators of the Provisions of Cabinet Resolution No. (109) of 2023 Concerning the Regulation of Real Beneficiary Procedures",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-12-15",
+    "topics": [
+      "beneficial_ownership",
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-14-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (14) of 2023 Concerning the Economic Register Fees.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "14",
+      "year": 2023,
+      "title": "Concerning the Economic Register Fees",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-08-05",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-16-2020",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (16) of 2020 Regarding Determining the Approved List of Sectors and Economic Activities in which Direct Foreign Investment is Permitted and their Percentage of Ownership.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "16",
+      "year": 2020,
+      "title": "Regarding Determining the Approved List of Sectors and Economic Activities in which Direct Foreign Investment is Permitted and their Percentage of Ownership",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2020-03-17",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-2-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (2) of 2022 Concerning the Trading of Cooperative Associations Shares in Financial Markets in the State.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "2",
+      "year": 2022,
+      "title": "Concerning the Trading of Cooperative Associations Shares in Financial Markets in the State",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-09-19",
+    "topics": [
+      "cooperative_associations",
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-22-2016",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (22) of 2016 on Unified Definition of Small and Medium Enterprises.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "22",
+      "year": 2016,
+      "title": "On Unified Definition of Small and Medium Enterprises",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2025-10-28",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-23-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (23) of 2024 Concerning the National Treatment of the Nationals of States of the Cooperative Council of Arab Gulf States as UAE Nationals Concerning the Practice of Commercial Activities.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "23",
+      "year": 2024,
+      "title": "Concerning the National Treatment of the Nationals of States of the Cooperative Council of Arab Gulf States as UAE Nationals Concerning the Practice of Commercial Activities",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-08-06",
+    "topics": [
+      "commercial_regulation",
+      "cooperative_associations",
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-3-2025",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (3) of 2025 Regarding the Ratios to the Implementation of Federal Decree-Law No. (36) of 2023 Regarding Regulation Competition.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "3",
+      "year": 2025,
+      "title": "Regarding the Ratios to the Implementation of Federal Decree-Law No. (36) of 2023 Regarding Regulation Competition",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2025-01-20",
+    "topics": [
+      "competition",
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-35-2016",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (35) of 2016 Regarding the Executive Regulations of Federal Law No. (2) of 2014 Regarding Small and Medium-Sized Enterprises.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "35",
+      "year": 2016,
+      "title": "Regarding the Executive Regulations of Federal Law No. (2) of 2014 Regarding Small and Medium-Sized Enterprises",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2016-08-31",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-36-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (36) of 2022 Regulating the Activity of Operating a Crowdfunding Platform.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "36",
+      "year": 2022,
+      "title": "Regulating the Activity of Operating a Crowdfunding Platform",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-04-11",
+    "topics": [
+      "crowdfunding",
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-37-2014",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (37) of 2014 Concerning the Executive Regulations of Federal Law No. (4) of 2012 Regulating Competition.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "37",
+      "year": 2014,
+      "title": "Concerning the Executive Regulations of Federal Law No. (4) of 2012 Regulating Competition",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2014-10-27",
+    "topics": [
+      "competition",
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-4-2018",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (4) of 2018 Forming the Financial Restructuring Committee.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "4",
+      "year": 2018,
+      "title": "Forming the Financial Restructuring Committee",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2018-02-04",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-45-2018",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (45) of 2018 Concerning the Executive Regulations of Federal Law No. (11) of 2015 Controlling the Trade in and Stamping of Precious Stones and Metals.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "45",
+      "year": 2018,
+      "title": "Concerning the Executive Regulations of Federal Law No. (11) of 2015 Controlling the Trade in and Stamping of Precious Stones and Metals",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2018-09-30",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-47-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (47) of 2022 Concerning the Executive Regulations of Federal Decree-Law No. (38) of 2021 on Copyright and Neighboring Rights.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "47",
+      "year": 2022,
+      "title": "Concerning the Executive Regulations of Federal Decree-Law No. (38) of 2021 on Copyright and Neighboring Rights",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-05-11",
+    "topics": [
+      "copyright",
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-53-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (53) of 2022 Determining the Operational and Executive Capacities and Competences Approved for Licensed Securities Markets in the United Arab Emirates.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "53",
+      "year": 2022,
+      "title": "Determining the Operational and Executive Capacities and Competences Approved for Licensed Securities Markets in the United Arab Emirates",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-08-26",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-55-2021",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (55) of 2021 Determining the List of Activities with a Strategic Impact.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "55",
+      "year": 2021,
+      "title": "Determining the List of Activities with a Strategic Impact",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2021-05-30",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-55-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (55) of 2024 Concerning the Executive Regulations of Federal Decree-Law No. (6) of 2022 Concerning Cooperative Associations.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "55",
+      "year": 2024,
+      "title": "Concerning the Executive Regulations of Federal Decree-Law No. (6) of 2022 Concerning Cooperative Associations",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-07-08",
+    "topics": [
+      "cooperative_associations",
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-56-2019",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (56) of 2019 Register of Finance Leases of Movables.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "56",
+      "year": 2019,
+      "title": "Register of Finance Leases of Movables",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2019-08-14",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-56-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (56) of 2024 Concerning the Telemarketing Regulations.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "56",
+      "year": 2024,
+      "title": "Concerning the Telemarketing Regulations",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-07-12",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-57-2020",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (57) of 2020 Specifying the Requirements of Real Economic Activities.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "57",
+      "year": 2020,
+      "title": "Specifying the Requirements of Real Economic Activities",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2019-01-01",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-57-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (57) of 2022 Concerning the Executive Regulations of Federal Decree by Law No. (36) of 2021 Concerning Trademarks.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "57",
+      "year": 2022,
+      "title": "Concerning the Executive Regulations of Federal Decree by Law No. (36) of 2021 Concerning Trademarks",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-08-01",
+    "topics": [
+      "economy",
+      "trademarks"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-57-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (57) of 2024 Concerning the Administrative Violations and Penalties for Acts Violating the Provisions of Cabinet Resolution No. (56) of 2024 Concerning the Telemarketing Regulations.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "57",
+      "year": 2024,
+      "title": "Concerning the Administrative Violations and Penalties for Acts Violating the Provisions of Cabinet Resolution No. (56) of 2024 Concerning the Telemarketing Regulations",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-06-10",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-65-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (65) of 2023 Concerning the Internal Sharia Control Committee and Sharia Controller for Commercial Companies Undertaking their Activities in Accordance with Islamic Sharia.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "65",
+      "year": 2023,
+      "title": "Concerning the Internal Sharia Control Committee and Sharia Controller for Commercial Companies Undertaking their Activities in Accordance with Islamic Sharia",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-07-03",
+    "topics": [
+      "commercial_regulation",
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-66-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (66) of 2023 Concerning the Executive Regulations of Federal Law No. (15) of 2020 Concerning Consumer Protection.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "66",
+      "year": 2023,
+      "title": "Concerning the Executive Regulations of Federal Law No. (15) of 2020 Concerning Consumer Protection",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-07-03",
+    "topics": [
+      "consumer_protection",
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-69-2021",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (69) of 2021 Regarding the Repeal of Cabinet Resolution No. (2) of 2007 Regarding the Formation of the Supreme Committee for Consumer Protection and the Determination of Its Competences.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "69",
+      "year": 2021,
+      "title": "Regarding the Repeal of Cabinet Resolution No. (2) of 2007 Regarding the Formation of the Supreme Committee for Consumer Protection and the Determination of Its Competences",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2021-07-01",
+    "topics": [
+      "consumer_protection",
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-7-2019",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (7) of 2019 Regarding Administrative Fines Imposed by the Insurance Authority.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "7",
+      "year": 2019,
+      "title": "Regarding Administrative Fines Imposed by the Insurance Authority",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2019-01-06",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-77-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (77) of 2022 Concerning Limited Liability Companies.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "77",
+      "year": 2022,
+      "title": "Concerning Limited Liability Companies",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-08-16",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-79-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (79) of 2022 Concerning the Controls for Motivating Commercial Companies to Exercise Their Corporate Social Responsibility.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "79",
+      "year": 2022,
+      "title": "Concerning the Controls for Motivating Commercial Companies to Exercise Their Corporate Social Responsibility",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-08-16",
+    "topics": [
+      "commercial_regulation",
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-8-2018",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (8) of 2018 Concerning the Executive Regulations of Federal Law No. (1) of 2017 Concerning Anti-Dumping, Countervailing, and Preventive Measures.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "8",
+      "year": 2018,
+      "title": "Concerning the Executive Regulations of Federal Law No. (1) of 2017 Concerning Anti-Dumping, Countervailing, and Preventive Measures",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2018-03-15",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-82-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (82) of 2023 Concerning the Commercial Agencies Committee.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "82",
+      "year": 2023,
+      "title": "Concerning the Commercial Agencies Committee",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-08-16",
+    "topics": [
+      "commercial_regulation",
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-83-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (83) of 2023 Concerning the Procedures, Controls, and Conditions Required for Public Joint Stock Companies to Practice Commercial Agency Activities.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "83",
+      "year": 2023,
+      "title": "Concerning the Procedures, Controls, and Conditions Required for Public Joint Stock Companies to Practice Commercial Agency Activities",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-07-20",
+    "topics": [
+      "commercial_regulation",
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-89-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (89) of 2023 Concerning the List of Administrative Penalties for Acts Committed in Violation of the Provisions of Federal Law No. (3) of 2022 Regulating Commercial Agencies.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "89",
+      "year": 2023,
+      "title": "Concerning the List of Administrative Penalties for Acts Committed in Violation of the Provisions of Federal Law No. (3) of 2022 Regulating Commercial Agencies",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-08-25",
+    "topics": [
+      "commercial_regulation",
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-94-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (94) of 2024 Concerning the Executive Regulations of the Financial Restructuring and Bankruptcy Law Promulgated by the Federal Decree-Law No. (51) of 2023.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "94",
+      "year": 2024,
+      "title": "Concerning the Executive Regulations of the Financial Restructuring and Bankruptcy Law Promulgated by the Federal Decree-Law No. (51) of 2023",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-09-02",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Cabinet-Resolution-99-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Cabinet Resolution No. (99) of 2024 Concerning the List of Violations and Administrative Penalties for Acts Violating the Provisions of Cabinet Resolution No. (111) of 2022 Regulating Virtual Assets and its Service Providers.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "99",
+      "year": 2024,
+      "title": "Concerning the List of Violations and Administrative Penalties for Acts Violating the Provisions of Cabinet Resolution No. (111) of 2022 Regulating Virtual Assets and its Service Providers",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-09-06",
+    "topics": [
+      "economy",
+      "virtual_assets"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Decree-Law-14-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Federal Decree by Law No. (14) of 2023 Concerning the Modern Technology-Based Trade.pdf",
+    "instrument": {
+      "type": "Federal Decree by Law",
+      "number": "14",
+      "year": 2023,
+      "title": "Concerning the Modern Technology-Based Trade",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-09-04",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Decree-Law-22-2020",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Federal Law by Decree No. (22) of 2020 Concerning the Distribution of Competencies and Powers between the Securities and Commodities Authority (SCA), and the Securities and Commodities Licensed in the State.pdf",
+    "instrument": {
+      "type": "Federal Law by Decree",
+      "number": "22",
+      "year": 2020,
+      "title": "Concerning the Distribution of Competencies and Powers between the Securities and Commodities Authority (SCA), and the Securities and Commodities Licensed in the State",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2020-09-27",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Decree-Law-25-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Federal Decree by Law No. (25) of 2024 Concerning the Practice of Economic Activities in the State by Citizens of GCC States.pdf",
+    "instrument": {
+      "type": "Federal Decree by Law",
+      "number": "25",
+      "year": 2024,
+      "title": "Concerning the Practice of Economic Activities in the State by Citizens of GCC States",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-11-05",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Decree-Law-32-2021",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Federal Decree Law No. (32) of 2021 on Commercial Companies.pdf",
+    "instrument": {
+      "type": "Federal Decree Law",
+      "number": "32",
+      "year": 2021,
+      "title": "On Commercial Companies",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2021-09-20",
+    "topics": [
+      "commercial_regulation",
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Decree-Law-32-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Federal Decree-Law No. (32) of 2023 on Finance Lease.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "32",
+      "year": 2023,
+      "title": "On Finance Lease",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-02-07",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Decree-Law-36-2021",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Federal Decree by Law No. (36) of 2021 Concerning Trademarks.pdf",
+    "instrument": {
+      "type": "Federal Decree by Law",
+      "number": "36",
+      "year": 2021,
+      "title": "Concerning Trademarks",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2021-09-20",
+    "topics": [
+      "economy",
+      "trademarks"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Decree-Law-36-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Federal Decree-Law No. (36) of 2023 Regarding Regulating Competition.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "36",
+      "year": 2023,
+      "title": "Regarding Regulating Competition",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-09-28",
+    "topics": [
+      "competition",
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Decree-Law-37-2021",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Federal Decree by Law No. (37) Of 2021 Concerning The Commercial Register.pdf",
+    "instrument": {
+      "type": "Federal Decree by Law",
+      "number": "37",
+      "year": 2021,
+      "title": "Concerning The Commercial Register",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2021-09-20",
+    "topics": [
+      "commercial_regulation",
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Decree-Law-37-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Federal Decree by Law No. (37) of 2022 Concerning the Family Businesses.pdf",
+    "instrument": {
+      "type": "Federal Decree by Law",
+      "number": "37",
+      "year": 2022,
+      "title": "Concerning the Family Businesses",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-10-03",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Decree-Law-38-2021",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Federal Decree-Law No. (38) of 2021 on Copyright and Neighboring Rights.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "38",
+      "year": 2021,
+      "title": "On Copyright and Neighboring Rights",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2021-09-20",
+    "topics": [
+      "copyright",
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Decree-Law-42-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Federal Law by Decree No. (42) of 2023 Concerning Anti-Commercial Fraud.pdf",
+    "instrument": {
+      "type": "Federal Law by Decree",
+      "number": "42",
+      "year": 2023,
+      "title": "Concerning Anti-Commercial Fraud",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-09-28",
+    "topics": [
+      "commercial_regulation",
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Decree-Law-50-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Federal Decree by Law No. (50) of 2022 Concerning Promulgating the Commercial Transactions Law.pdf",
+    "instrument": {
+      "type": "Federal Decree by Law",
+      "number": "50",
+      "year": 2022,
+      "title": "Concerning Promulgating the Commercial Transactions Law",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-01-02",
+    "topics": [
+      "commercial_regulation",
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Decree-Law-51-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Federal Decree-Law No. (51) of 2023 Promulgating the Financial and Bankruptcy Law.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "51",
+      "year": 2023,
+      "title": "Promulgating the Financial and Bankruptcy Law",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-10-02",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Decree-Law-6-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Federal Law by Decree No. (6) of 2022 Concerning Cooperative Associations.pdf",
+    "instrument": {
+      "type": "Federal Law by Decree",
+      "number": "6",
+      "year": 2022,
+      "title": "Concerning Cooperative Associations",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-08-17",
+    "topics": [
+      "cooperative_associations",
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Law-1-2017",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Federal Law No. (1) of 2017 on Anti-Dumping and Countervailing and Preventive Measures.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "1",
+      "year": 2017,
+      "title": "On Anti-Dumping and Countervailing and Preventive Measures",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2017-04-16",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Law-11-2015",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Federal Law No.(11) of 2015 Concerning Monitoring Trade in Precious Stones, Precious Metals; and its Stamping.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "11",
+      "year": 2015,
+      "title": "Concerning Monitoring Trade in Precious Stones, Precious Metals; and its Stamping",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2015-11-03",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Law-13-2004",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Federal Law No (13) of 2004 Regarding Supervision of Import  Export and Transit of Rough Diamonds.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "13",
+      "year": 2004,
+      "title": "Regarding Supervision of Import Export and Transit of Rough Diamonds",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2004-07-20",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Law-15-2020",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Federal Law No. (15) of 2020 on Consumer Protection.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "15",
+      "year": 2020,
+      "title": "On Consumer Protection",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2020-11-10",
+    "topics": [
+      "consumer_protection",
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Law-19-2002",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Federal Law No. (19) of 2002 concerning the Customs Duty payable on goods and materials imported from outside the Customs Union to the GCC Countries.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "19",
+      "year": 2002,
+      "title": "Concerning the Customs Duty payable on goods and materials imported from outside the Customs Union to the GCC Countries",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-01-24",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Law-2-1984",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Federal Law No. (2) of 1984 Concerning GCC Nationals Engaging in Economic Activities in the State.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "2",
+      "year": 1984,
+      "title": "Concerning GCC Nationals Engaging in Economic Activities in the State",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-01-24",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Law-2-1989",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Federal Law No. (2) of 1989  for Allowing the Citizens of GCC Countries to Practice the Whole or Retail Trade in the Country.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "2",
+      "year": 1989,
+      "title": "For Allowing the Citizens of GCC Countries to Practice the Whole or Retail Trade in the Country",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-01-22",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Law-2-2014",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Federal Law No. 2 of 2014 on Small and Medium Enterprises (SMEs).pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "2",
+      "year": 2014,
+      "title": "On Small and Medium Enterprises (SMEs)",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2014-03-04",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Law-22-2000",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Federal Law No. (22) of 2000 On the Union of UAE Chambers of Commerce and Industry.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "22",
+      "year": 2000,
+      "title": "On the Union of UAE Chambers of Commerce and Industry",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2000-11-18",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Law-3-2020",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Federal Law No. (3) of 2020 Regulating the Strategic Stock of Food Commodities in the State.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "3",
+      "year": 2020,
+      "title": "Regulating the Strategic Stock of Food Commodities in the State",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2020-03-30",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Law-3-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Federal Law No. (3) of 2022 Concerning Regulating Commercial Agencies.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "3",
+      "year": 2022,
+      "title": "Concerning Regulating Commercial Agencies",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-12-13",
+    "topics": [
+      "commercial_regulation",
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Law-4-2000",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Federal Law No.(4) of 2000 Concerning the Emirates Securities and Commodities Authority and Market.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "4",
+      "year": 2000,
+      "title": "Concerning the Emirates Securities and Commodities Authority and Market",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2000-01-29",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Law-42-1992",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Federal Law No. 42 of 1992 Concerning the Production, Import and Handling Seeds and Kernels.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "42",
+      "year": 1992,
+      "title": "Concerning the Production, Import and Handling Seeds and Kernels",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-02-07",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Law-6-2018",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Federal Law No. (6) of 2018 Concerning the Arbitration.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "6",
+      "year": 2018,
+      "title": "Concerning the Arbitration",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2018-05-03",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "economy_business",
+    "base_id": "federal#Law-8-2004",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Economy and Business-73/Federal Law No. (8) of 2004 Concerning Financial Free Zones.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "8",
+      "year": 2004,
+      "title": "Concerning Financial Free Zones",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2004-03-14",
+    "topics": [
+      "economy"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Cabinet-Resolution-1-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Cabinet Resolution No. (1) of 2022 Concerning the Executive Regulation of Federal Decree-Law No. (33) of 2021 Regulating Labour Relations.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "1",
+      "year": 2022,
+      "title": "Concerning the Executive Regulation of Federal Decree-Law No. (33) of 2021 Regulating Labour Relations",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-02-02",
+    "topics": [
+      "labour",
+      "labour_relations"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Cabinet-Resolution-10-2025",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Cabinet Resolution No. (10) of 2025 Regarding the Regulations of the Work of Law Firms  and Legal Consultancy Firms.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "10",
+      "year": 2025,
+      "title": "Regarding the Regulations of the Work of Law Firms and Legal Consultancy Firms",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2025-02-10",
+    "topics": [
+      "labour",
+      "legal_profession"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Cabinet-Resolution-105-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Cabinet Resolution No. (105) of 2022 Concerning the Percentage of National Lawyers and Legal Consultants at Foreign Law Firms and Legal Consultancy Offices.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "105",
+      "year": 2022,
+      "title": "Concerning the Percentage of National Lawyers and Legal Consultants at Foreign Law Firms and Legal Consultancy Offices",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-01-02",
+    "topics": [
+      "labour",
+      "legal_profession"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Cabinet-Resolution-106-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Cabinet Resolution No (106) Of 2022 Concerning The Executive Regulations Of Federal Decree-Law No. (9) Of 2022 On Domestic Workers.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "106",
+      "year": 2022,
+      "title": "Concerning The Executive Regulations of Federal Decree-Law No. (9) of 2022 on Domestic Workers",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-11-30",
+    "topics": [
+      "domestic_workers",
+      "employment_compliance",
+      "labour"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Cabinet-Resolution-11-2025",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Cabinet Resolution No. (11) of 2025 Regarding the Charges for Services Provided by Ministry of Justice Regarding the Regulations of the Legal Profession and Legal Consultation Profession.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "11",
+      "year": 2025,
+      "title": "Regarding the Charges for Services Provided by Ministry of Justice Regarding the Regulations of the Legal Profession and Legal Consultation Profession",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2025-02-10",
+    "topics": [
+      "labour",
+      "legal_profession"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Cabinet-Resolution-12-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Cabinet Resolution No. (12) of 2023 Concerning the Freelance Work Leave for Employees of the Federal Government.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "12",
+      "year": 2023,
+      "title": "Concerning the Freelance Work Leave for Employees of the Federal Government",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-03-02",
+    "topics": [
+      "freelance_work",
+      "labour"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Cabinet-Resolution-16-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Cabinet Resolution No. (16) of 2024 on the Executive Regulations of Federal Decree-Law No. (20) of 2022 Regulating the Notary Profession.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "16",
+      "year": 2024,
+      "title": "On the Executive Regulations of Federal Decree-Law No. (20) of 2022 Regulating the Notary Profession",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-03-08",
+    "topics": [
+      "labour",
+      "notary_profession"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Cabinet-Resolution-17-2015",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Cabinet Resolution No. (17) of 2015 Regulating the Remunerations of Specialized Technical Committees in the Federal Government.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "17",
+      "year": 2015,
+      "title": "Regulating the Remunerations of Specialized Technical Committees in the Federal Government",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2015-04-19",
+    "topics": [
+      "labour"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Cabinet-Resolution-17-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Cabinet Resolution No. (17) of 2024 Concerning the Executive Regulations of Federal Decree-Law No. (21) of 2022 Regulating the Profession of Experts before the Judicial Authorities.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "17",
+      "year": 2024,
+      "title": "Concerning the Executive Regulations of Federal Decree-Law No. (21) of 2022 Regulating the Profession of Experts before the Judicial Authorities",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-03-08",
+    "topics": [
+      "expert_profession",
+      "labour"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Cabinet-Resolution-18-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Cabinet Resolution No. (18) of 2022 Concerning the Classification of Private Sector Establishments Subject to the Provisions of the Law Regulating Labour Relations.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "18",
+      "year": 2022,
+      "title": "Concerning the Classification of Private Sector Establishments Subject to the Provisions of the Law Regulating Labour Relations",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-03-14",
+    "topics": [
+      "labour",
+      "labour_relations"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Cabinet-Resolution-18-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Cabinet Resolution No. (18) of 2024 on the Executive Regulations of Federal Decree-Law No. (22) of 2022 Concerning Regulating the Translation Profession.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "18",
+      "year": 2024,
+      "title": "On the Executive Regulations of Federal Decree-Law No. (22) of 2022 Concerning Regulating the Translation Profession",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-03-08",
+    "topics": [
+      "labour",
+      "translation_profession"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Cabinet-Resolution-25-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Cabinet Resolution No. (25) of 2023 Approving the Mechanism for Collecting Administrative Fines Due to the Ministry of Human Resources and Emiratisation Through a Third Party.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "25",
+      "year": 2023,
+      "title": "Approving the Mechanism for Collecting Administrative Fines Due to the Ministry of Human Resources and Emiratisation Through a Third Party",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-03-27",
+    "topics": [
+      "compliance",
+      "human_resources",
+      "labour"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Cabinet-Resolution-27-2020",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Cabinet Resolution No. (27) of 2020 On the Remote Work System in the Federal Government.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "27",
+      "year": 2020,
+      "title": "On the Remote Work System in the Federal Government",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2020-04-02",
+    "topics": [
+      "labour",
+      "remote_work"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Cabinet-Resolution-27-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Cabinet Resolution No. (27) of 2024 Concerning the Public Holidays in the State.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "27",
+      "year": 2024,
+      "title": "Concerning the Public Holidays in the State",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2025-01-01",
+    "topics": [
+      "labour",
+      "public_service"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Cabinet-Resolution-33-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Cabinet Resolution No. (33) of 2022 Concerning Work Injuries and Occupational Diseases.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "33",
+      "year": 2022,
+      "title": "Concerning Work Injuries and Occupational Diseases",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-04-11",
+    "topics": [
+      "labour",
+      "work_injuries"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Cabinet-Resolution-35-2020",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Cabinet Resolution No. (35) of 2020 On the Approval of the Performance Management System for Federal Government Employees.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "35",
+      "year": 2020,
+      "title": "On the Approval of the Performance Management System for Federal Government Employees",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2020-05-10",
+    "topics": [
+      "labour",
+      "public_service"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Cabinet-Resolution-42-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Cabinet Resolution No. (42) of 2024 Concerning the Rewards and Incentives Scheme for Federal Government Employees.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "42",
+      "year": 2024,
+      "title": "Concerning the Rewards and Incentives Scheme for Federal Government Employees",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-04-15",
+    "topics": [
+      "labour",
+      "public_service"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Cabinet-Resolution-48-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Cabinet Resolution No. (48) of 2022 Concerning the Executive Regulations of Federal Law No. (12) of 2014 Regulating the Auditing Profession.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "48",
+      "year": 2022,
+      "title": "Concerning the Executive Regulations of Federal Law No. (12) of 2014 Regulating the Auditing Profession",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-05-11",
+    "topics": [
+      "accounting",
+      "auditing",
+      "labour"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Cabinet-Resolution-48-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Cabinet Resolution No. (48) of 2023 Concerning the Executive Regulation of Federal Decree by Law No.  (49)  of 2022 of Concerning Human Resources in Federal Government.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "48",
+      "year": 2023,
+      "title": "Concerning the Executive Regulation of Federal Decree by Law No. (49) of 2022 of Concerning Human Resources in Federal Government",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-07-01",
+    "topics": [
+      "human_resources",
+      "labour"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Cabinet-Resolution-56-2018",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Cabinet Resolution No. (56) of 2018 Regulating the Residence Permits for Investors, Entrepreneurs and Specialized Talents.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "56",
+      "year": 2018,
+      "title": "Regulating the Residence Permits for Investors, Entrepreneurs and Specialized Talents",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2018-12-04",
+    "topics": [
+      "labour",
+      "residency"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Cabinet-Resolution-64-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Cabinet Resolution No. (64) of 2024 Concerning the Executive Rules for Implementing the Provisions of the Insurance Protection Extension Law for Nationals of the GCC Countries Working Outside of their Countries in Any of the Other GCC Count.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "64",
+      "year": 2024,
+      "title": "Concerning the Executive Rules for Implementing the Provisions of the Insurance Protection Extension Law for Nationals of the GCC Countries Working Outside of their Countries in Any of the Other GCC Count",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-06-10",
+    "topics": [
+      "labour",
+      "social_security"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Cabinet-Resolution-65-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Cabinet Resolution No. (65) of 2022 Issuing the Executive Regulations of Federal Law by Decree No. (29) of 2021 Concerning the Entry and Residence of Foreigners.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "65",
+      "year": 2022,
+      "title": "Issuing the Executive Regulations of Federal Law by Decree No. (29) of 2021 Concerning the Entry and Residence of Foreigners",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-07-12",
+    "topics": [
+      "labour",
+      "residency"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Cabinet-Resolution-7-2025",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Cabinet Resolution No. (7) of 2025 Regarding the Human and Financial Resources Regulations for Mosque Employees of the General Authority of Islamic Affairs, Endowments and Zakat.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "7",
+      "year": 2025,
+      "title": "Regarding the Human and Financial Resources Regulations for Mosque Employees of the General Authority of Islamic Affairs, Endowments and Zakat",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2025-01-20",
+    "topics": [
+      "labour",
+      "public_service"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Cabinet-Resolution-79-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Cabinet Resolution No. (79) of 2023 Adopting the Code of Professional Conduct and Ethics for the Public Service in the Federal Government.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "79",
+      "year": 2023,
+      "title": "Adopting the Code of Professional Conduct and Ethics for the Public Service in the Federal Government",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-07-10",
+    "topics": [
+      "labour",
+      "legal_profession",
+      "public_service"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Cabinet-Resolution-8-2025",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Cabinet Resolution No. (8) of 2025 Regarding the Executive Regulations of Federal Decree-Law No.(34) of 2022 Regulating the Legal Profession and Legal Consultation Profession.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "8",
+      "year": 2025,
+      "title": "Regarding the Executive Regulations of Federal Decree-Law No.(34) of 2022 Regulating the Legal Profession and Legal Consultation Profession",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2025-02-10",
+    "topics": [
+      "labour",
+      "legal_profession"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Cabinet-Resolution-9-1995",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Cabinet Resolution No. (9) of 1995 Regulating Expatriates Bringing Their Families and Servants.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "9",
+      "year": 1995,
+      "title": "Regulating Expatriates Bringing Their Families and Servants",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "1995-12-20",
+    "topics": [
+      "labour"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Cabinet-Resolution-9-2025",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Cabinet Resolution No. (9) of 2025 Approving the Code of Ethics for the Legal Profession and Legal Consultation Profession.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "9",
+      "year": 2025,
+      "title": "Approving the Code of Ethics for the Legal Profession and Legal Consultation Profession",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2025-02-10",
+    "topics": [
+      "labour",
+      "legal_profession"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Cabinet-Resolution-97-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Cabinet Resolution No. (97) of 2022 Concerning Mechanisms and Controls for Implementing the Unemployment Insurance Scheme.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "97",
+      "year": 2022,
+      "title": "Concerning Mechanisms and Controls for Implementing the Unemployment Insurance Scheme",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-10-14",
+    "topics": [
+      "labour",
+      "social_security",
+      "unemployment_insurance"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Decree-Law-13-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Federal Decree by Law No. (13) of 2022 Concerning Insurance Against Unemployment.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "13",
+      "year": 2022,
+      "title": "Concerning Insurance Against Unemployment",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-09-15",
+    "topics": [
+      "labour",
+      "social_security",
+      "unemployment_insurance"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Decree-Law-20-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Federal Decree by Law No. (20) of 2022 Regulating the Notary Profession.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "20",
+      "year": 2022,
+      "title": "Regulating the Notary Profession",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-09-26",
+    "topics": [
+      "labour",
+      "notary_profession"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Decree-Law-21-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Federal Decree by Law No. (21) of 2022 Regulating the Profession of Experts before Judicial Authorities.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "21",
+      "year": 2022,
+      "title": "Regulating the Profession of Experts before Judicial Authorities",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-01-02",
+    "topics": [
+      "expert_profession",
+      "labour"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Decree-Law-22-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Federal Decree by Law No. (22) of 2022 Regulating the Translation Profession.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "22",
+      "year": 2022,
+      "title": "Regulating the Translation Profession",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-09-26",
+    "topics": [
+      "labour",
+      "translation_profession"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Decree-Law-27-2018",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Federal Decree by Law No. (27) of 2018 Concerning Equality in Wages between Men and Women.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "27",
+      "year": 2018,
+      "title": "Concerning Equality in Wages between Men and Women",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2018-09-23",
+    "topics": [
+      "labour",
+      "labour_equality"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Decree-Law-29-2021",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Federal Law by Decree No. (29) of 2021 Concerning Entry and Residence of Foreigners.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "29",
+      "year": 2021,
+      "title": "Concerning Entry and Residence of Foreigners",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2021-09-16",
+    "topics": [
+      "labour",
+      "residency"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Decree-Law-33-2021",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Federal Decree by Law No. (33) of 2021 Concerning Regulating Labour Relations.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "33",
+      "year": 2021,
+      "title": "Concerning Regulating Labour Relations",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-02-02",
+    "topics": [
+      "labour",
+      "labour_relations"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Decree-Law-34-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Federal Decree Law No. (34) of 2022 Regulating the Legal Profession and Legal Consultation Profession.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "34",
+      "year": 2022,
+      "title": "Regulating the Legal Profession and Legal Consultation Profession",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-01-02",
+    "topics": [
+      "labour",
+      "legal_profession"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Decree-Law-41-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Federal Decree by Law No. (41) of 2023  on Regulating the Auditing and Accounting Professions.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "41",
+      "year": 2023,
+      "title": "On Regulating the Auditing and Accounting Professions",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-09-28",
+    "topics": [
+      "accounting",
+      "auditing",
+      "labour"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Decree-Law-47-2021",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Federal Decree by Law No. (47) of 2021 Concerning the Unified General Rules of Employment in the United Arab Emirates.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "47",
+      "year": 2021,
+      "title": "Concerning the Unified General Rules of Employment in the United Arab Emirates",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-02-02",
+    "topics": [
+      "labour"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Decree-Law-49-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Federal Law by Decree No. (49) of 2022 on Human Resources in the Federal Government.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "49",
+      "year": 2022,
+      "title": "On Human Resources in the Federal Government",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-01-02",
+    "topics": [
+      "human_resources",
+      "labour"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Decree-Law-9-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Federal Decree by Law No. (9) of 2022 Concerning Domestic Workers.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "9",
+      "year": 2022,
+      "title": "Concerning Domestic Workers",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-09-05",
+    "topics": [
+      "domestic_workers",
+      "employment_compliance",
+      "labour"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Law-10-2002",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Federal Law No. (10) of 2002 on Practicing the Veterinary Medicine Profession.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "10",
+      "year": 2002,
+      "title": "On Practicing the Veterinary Medicine Profession",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2002-09-29",
+    "topics": [
+      "labour",
+      "professional_regulation"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Law-7-2001",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Federal Law No. (7) of 2001  Concerning the Appointment of Convicted Nationals.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "7",
+      "year": 2001,
+      "title": "Concerning the Appointment of Convicted Nationals",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2001-05-05",
+    "topics": [
+      "employment_policy",
+      "labour"
+    ]
+  },
+  {
+    "category": "labour_residency_professions",
+    "base_id": "federal#Law-9-2006",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Labour, Residency and Professions-43/Federal Law No. (9) of 2006 Concerning Residential Register and the Identity Card.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "9",
+      "year": 2006,
+      "title": "Concerning Residential Register and the Identity Card",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2006-05-07",
+    "topics": [
+      "civil_registry",
+      "labour"
+    ]
+  },
+  {
+    "category": "security_and_safety",
+    "base_id": "federal#Cabinet-Resolution-1-2025",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Security and Safety-35/Cabinet Resolution No. (1) of 2025 Regarding Approving the List of Terrorist Persons and Organizations.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "1",
+      "year": 2025,
+      "title": "Regarding Approving the List of Terrorist Persons and Organizations",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2025-01-08",
+    "topics": [
+      "counter_terrorism",
+      "security"
+    ]
+  },
+  {
+    "category": "security_and_safety",
+    "base_id": "federal#Cabinet-Resolution-10-2019",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Security and Safety-35/Cabinet Resolution No. (10) of 2019 Concerning the Executive Regulations of Federal Decree-Law No. (20) of 2018 on Anti-Money Laundering, Combating the Financing of Terrorism, and Illegal Organizations.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "10",
+      "year": 2019,
+      "title": "Concerning the Executive Regulations of Federal Decree-Law No. (20) of 2018 on Anti-Money Laundering, Combating the Financing of Terrorism, and Illegal Organizations",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-05-27",
+    "topics": [
+      "aml_cft",
+      "counter_terrorism",
+      "security"
+    ]
+  },
+  {
+    "category": "security_and_safety",
+    "base_id": "federal#Cabinet-Resolution-13-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Security and Safety-35/Cabinet Resolution No. (13) of 2022 Regarding Approving the List of Terrorist Persons and Organizations.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "13",
+      "year": 2022,
+      "title": "Regarding Approving the List of Terrorist Persons and Organizations",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "1979-09-13",
+    "topics": [
+      "counter_terrorism",
+      "security"
+    ]
+  },
+  {
+    "category": "security_and_safety",
+    "base_id": "federal#Cabinet-Resolution-133-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Security and Safety-35/Cabinet Resolution No. (133) of 2023 Concerning the Executive Regulations of Federal Law No. (6) of 2022 Concerning Delinquent Juveniles and Those at Risk of Delinquency.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "133",
+      "year": 2023,
+      "title": "Concerning the Executive Regulations of Federal Law No. (6) of 2022 Concerning Delinquent Juveniles and Those at Risk of Delinquency",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-12-15",
+    "topics": [
+      "juvenile_justice",
+      "security"
+    ]
+  },
+  {
+    "category": "security_and_safety",
+    "base_id": "federal#Cabinet-Resolution-140-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Security and Safety-35/Cabinet Resolution No. (140) of 2024 Regarding the Misdemeanors and Felonies of Concern or Involving Moral Turpitude or Breach of Trust and Related to Judicial Rehabilitation.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "140",
+      "year": 2024,
+      "title": "Regarding the Misdemeanors and Felonies of Concern or Involving Moral Turpitude or Breach of Trust and Related to Judicial Rehabilitation",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-12-31",
+    "topics": [
+      "security"
+    ]
+  },
+  {
+    "category": "security_and_safety",
+    "base_id": "federal#Cabinet-Resolution-141-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Security and Safety-35/Cabinet Resolution No. (141) of 2024 Regarding Rewards for Reporting Illicit Trade in Goods.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "141",
+      "year": 2024,
+      "title": "Regarding Rewards for Reporting Illicit Trade in Goods",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-12-31",
+    "topics": [
+      "border_security",
+      "security"
+    ]
+  },
+  {
+    "category": "security_and_safety",
+    "base_id": "federal#Cabinet-Resolution-20-2021",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Security and Safety-35/Cabinet Resolution No. (20) of 2021 Regarding the Technical Regulations for the Requirements of Fire Suppression Systems Intended for Engine Compartments of Buses and Coaches.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "20",
+      "year": 2021,
+      "title": "Regarding the Technical Regulations for the Requirements of Fire Suppression Systems Intended for Engine Compartments of Buses and Coaches",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2021-02-10",
+    "topics": [
+      "fire_safety",
+      "security"
+    ]
+  },
+  {
+    "category": "security_and_safety",
+    "base_id": "federal#Cabinet-Resolution-24-2018",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Security and Safety-35/Cabinet Resolution No. (24) of 2018 Adopting the List of Terrorist Organizations and Individuals.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "24",
+      "year": 2018,
+      "title": "Adopting the List of Terrorist Organizations and Individuals",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2025-10-29",
+    "topics": [
+      "counter_terrorism",
+      "security"
+    ]
+  },
+  {
+    "category": "security_and_safety",
+    "base_id": "federal#Cabinet-Resolution-30-2017",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Security and Safety-35/Cabinet Resolution No. (30) of 2017 Regulating Traffic and Traffic Safety Services.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "30",
+      "year": 2017,
+      "title": "Regulating Traffic and Traffic Safety Services",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2017-07-25",
+    "topics": [
+      "security",
+      "traffic_safety"
+    ]
+  },
+  {
+    "category": "security_and_safety",
+    "base_id": "federal#Cabinet-Resolution-43-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Security and Safety-35/Cabinet Resolution No. (43) of 2024 Concerning the Treatment of Non-Resident Foreigners Arrested at UAE Ports with Narcotic Drugs or Psychotropic Substances in their Possession.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "43",
+      "year": 2024,
+      "title": "Concerning the Treatment of Non-Resident Foreigners Arrested at UAE Ports with Narcotic Drugs or Psychotropic Substances in their Possession",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-05-31",
+    "topics": [
+      "border_security",
+      "narcotics_control",
+      "security"
+    ]
+  },
+  {
+    "category": "security_and_safety",
+    "base_id": "federal#Cabinet-Resolution-50-2018",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Security and Safety-35/Cabinet Resolution No. (50) of 2018 Approving the List of Terrorists.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "50",
+      "year": 2018,
+      "title": "Approving the List of Terrorists",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2025-10-24",
+    "topics": [
+      "counter_terrorism",
+      "security"
+    ]
+  },
+  {
+    "category": "security_and_safety",
+    "base_id": "federal#Cabinet-Resolution-51-2020",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Security and Safety-35/Cabinet Resolution No. (51) of 2020 Approving the list of Terrorist Persons and Organizations.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "51",
+      "year": 2020,
+      "title": "Approving the list of Terrorist Persons and Organizations",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2025-10-27",
+    "topics": [
+      "counter_terrorism",
+      "security"
+    ]
+  },
+  {
+    "category": "security_and_safety",
+    "base_id": "federal#Cabinet-Resolution-53-2019",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Security and Safety-35/Cabinet Resolution No. (53) of 2019 on the Implementation of Electronic Probation.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "53",
+      "year": 2019,
+      "title": "On the Implementation of Electronic Probation",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2025-10-22",
+    "topics": [
+      "criminal_justice",
+      "security"
+    ]
+  },
+  {
+    "category": "security_and_safety",
+    "base_id": "federal#Cabinet-Resolution-63-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Security and Safety-35/Cabinet Resolution No. (63) of 2023 Concerning the Security of Ports, Borders and Free Zones.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "63",
+      "year": 2023,
+      "title": "Concerning the Security of Ports, Borders and Free Zones",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-06-12",
+    "topics": [
+      "border_security",
+      "security"
+    ]
+  },
+  {
+    "category": "security_and_safety",
+    "base_id": "federal#Cabinet-Resolution-74-2020",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Security and Safety-35/Cabinet Resolution No. (74) of 2020 Regulating the Terrorist Lists and Implementing the Security Councils Resolutions Regarding the Prevention and Suppression of Terrorism and its Financing and Proliferation of Armaments and the related Res.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "74",
+      "year": 2020,
+      "title": "Regulating the Terrorist Lists and Implementing the Security Councils Resolutions Regarding the Prevention and Suppression of Terrorism and its Financing and Proliferation of Armaments and the related Res",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2020-10-27",
+    "topics": [
+      "counter_terrorism",
+      "security"
+    ]
+  },
+  {
+    "category": "security_and_safety",
+    "base_id": "federal#Cabinet-Resolution-90-2020",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Security and Safety-35/Cabinet Resolution No. (90) of 2020 Concerning the Requirements and Controls for Installing Fire Detectors in Residential Homes.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "90",
+      "year": 2020,
+      "title": "Concerning the Requirements and Controls for Installing Fire Detectors in Residential Homes",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2021-01-03",
+    "topics": [
+      "fire_safety",
+      "security"
+    ]
+  },
+  {
+    "category": "security_and_safety",
+    "base_id": "federal#Cabinet-Resolution-91-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Security and Safety-35/Cabinet Resolution No. (91) of 2024 Concerning Extremism Lists.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "91",
+      "year": 2024,
+      "title": "Concerning Extremism Lists",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-09-02",
+    "topics": [
+      "counter_terrorism",
+      "security"
+    ]
+  },
+  {
+    "category": "security_and_safety",
+    "base_id": "federal#Cabinet-Resolution-97-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Security and Safety-35/Cabinet Resolution No. (97) of 2024 Concerning the Executive Regulation for Federal Decree-Law No. (43) of 2021 on the Commodities Subject to the Non-Proliferation.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "97",
+      "year": 2024,
+      "title": "Concerning the Executive Regulation for Federal Decree-Law No. (43) of 2021 on the Commodities Subject to the Non-Proliferation",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-09-02",
+    "topics": [
+      "non_proliferation",
+      "security"
+    ]
+  },
+  {
+    "category": "security_and_safety",
+    "base_id": "federal#Decree-Law-12-2017",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Security and Safety-35/Federal Decree-Law No.(12) of 2017 on International Crimes.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "12",
+      "year": 2017,
+      "title": "On International Crimes",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-01-18",
+    "topics": [
+      "security"
+    ]
+  },
+  {
+    "category": "security_and_safety",
+    "base_id": "federal#Decree-Law-14-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Security and Safety-35/Federal Decree-Law No. (14) of 2024 On Traffic Regulation.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "14",
+      "year": 2024,
+      "title": "On Traffic Regulation",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-10-12",
+    "topics": [
+      "security",
+      "traffic_safety"
+    ]
+  },
+  {
+    "category": "security_and_safety",
+    "base_id": "federal#Decree-Law-24-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Security and Safety-35/Federal Decree by Law No. (24) of 2023, On Combating Human Trafficking.pdf",
+    "instrument": {
+      "type": "Federal Decree by Law",
+      "number": "24",
+      "year": 2023,
+      "title": "On Combating Human Trafficking",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-09-13",
+    "topics": [
+      "human_trafficking",
+      "security",
+      "traffic_safety"
+    ]
+  },
+  {
+    "category": "security_and_safety",
+    "base_id": "federal#Decree-Law-30-2021",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Security and Safety-35/Federal Decree by Law No. (30) of 2021 On Combating Narcotics and Psychotropic Substances.pdf",
+    "instrument": {
+      "type": "Federal Decree by Law",
+      "number": "30",
+      "year": 2021,
+      "title": "On Combating Narcotics and Psychotropic Substances",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2021-09-16",
+    "topics": [
+      "narcotics_control",
+      "security"
+    ]
+  },
+  {
+    "category": "security_and_safety",
+    "base_id": "federal#Decree-Law-31-2021",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Security and Safety-35/Federal Law by Decree No. (31) of 2021 Promulgating the Crimes and Penalties Law.pdf",
+    "instrument": {
+      "type": "Federal Law by Decree",
+      "number": "31",
+      "year": 2021,
+      "title": "Promulgating the Crimes and Penalties Law",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2021-09-20",
+    "topics": [
+      "security"
+    ]
+  },
+  {
+    "category": "security_and_safety",
+    "base_id": "federal#Decree-Law-34-2021",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Security and Safety-35/Federal Decree-Law No. (34) of 2021 On Countering Rumors and Cybercrimes.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "34",
+      "year": 2021,
+      "title": "On Countering Rumors and Cybercrimes",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-01-02",
+    "topics": [
+      "cybersecurity",
+      "security"
+    ]
+  },
+  {
+    "category": "security_and_safety",
+    "base_id": "federal#Decree-Law-34-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Security and Safety-35/Federal Law by Decree No (34) of 2023 Concerning Combating Discrimination, Hatred and Extremism.pdf",
+    "instrument": {
+      "type": "Federal Law by Decree",
+      "number": "34",
+      "year": 2023,
+      "title": "Concerning Combating Discrimination, Hatred and Extremism",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-09-28",
+    "topics": [
+      "counter_terrorism",
+      "security"
+    ]
+  },
+  {
+    "category": "security_and_safety",
+    "base_id": "federal#Decree-Law-34-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Security and Safety-35/Federal Decree-Law No. (34) of 2024 Regulating Penal and Correctional Institutions.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "34",
+      "year": 2024,
+      "title": "Regulating Penal and Correctional Institutions",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-10-01",
+    "topics": [
+      "security"
+    ]
+  },
+  {
+    "category": "security_and_safety",
+    "base_id": "federal#Decree-Law-39-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Security and Safety-35/Federal Decree by Law No. (39) of 2023 Concerning the Regulation of the Federal DNA Fingerprinting Database.pdf",
+    "instrument": {
+      "type": "Federal Decree by Law",
+      "number": "39",
+      "year": 2023,
+      "title": "Concerning the Regulation of the Federal DNA Fingerprinting Database",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-02-02",
+    "topics": [
+      "forensics",
+      "security"
+    ]
+  },
+  {
+    "category": "security_and_safety",
+    "base_id": "federal#Decree-Law-43-2021",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Security and Safety-35/Federal Decree-Law No. (43) of 2021 On the Goods Subject to Non-Proliferation.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "43",
+      "year": 2021,
+      "title": "On the Goods Subject to Non-Proliferation",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2021-09-20",
+    "topics": [
+      "non_proliferation",
+      "security"
+    ]
+  },
+  {
+    "category": "security_and_safety",
+    "base_id": "federal#Law-14-2020",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Security and Safety-35/Federal Law No. (14) of 2020 on the Protection of Witnesses and the Like.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "14",
+      "year": 2020,
+      "title": "On the Protection of Witnesses and the Like",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2020-11-10",
+    "topics": [
+      "security",
+      "witness_protection"
+    ]
+  },
+  {
+    "category": "security_and_safety",
+    "base_id": "federal#Law-39-2006",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Security and Safety-35/Federal Law No. (39) of 2006 Concerning International Judicial Cooperation in Criminal Matters.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "39",
+      "year": 2006,
+      "title": "Concerning International Judicial Cooperation in Criminal Matters",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2006-10-31",
+    "topics": [
+      "security"
+    ]
+  },
+  {
+    "category": "security_and_safety",
+    "base_id": "federal#Law-40-2006",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Security and Safety-35/Federal Law No (40) of 2006 On the Prohibition of The Development, Production, Stockpiling and Use Of Chemical Weapons.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "40",
+      "year": 2006,
+      "title": "On the Prohibition of The Development, Production, Stockpiling and Use of Chemical Weapons",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2006-10-31",
+    "topics": [
+      "arms_control",
+      "security"
+    ]
+  },
+  {
+    "category": "security_and_safety",
+    "base_id": "federal#Law-6-2014",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Security and Safety-35/Federal Law No. (6) of 2014 Concerning the National and Reserve Service.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "6",
+      "year": 2014,
+      "title": "Concerning the National and Reserve Service",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2014-05-28",
+    "topics": [
+      "security"
+    ]
+  },
+  {
+    "category": "security_and_safety",
+    "base_id": "federal#Law-6-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Security and Safety-35/Federal Law No. (6) of 2022 concerning Juvenile Delinquent and Juvenile at Risk of Delinquency.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "6",
+      "year": 2022,
+      "title": "Concerning Juvenile Delinquent and Juvenile at Risk of Delinquency",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-12-13",
+    "topics": [
+      "juvenile_justice",
+      "security"
+    ]
+  },
+  {
+    "category": "security_and_safety",
+    "base_id": "federal#Law-7-2014",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Security and Safety-35/Federal Law No. (7) of 2014 Combating Terrorism Crimes.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "7",
+      "year": 2014,
+      "title": "Combating Terrorism Crimes",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2014-08-20",
+    "topics": [
+      "counter_terrorism",
+      "security"
+    ]
+  },
+  {
+    "category": "security_and_safety",
+    "base_id": "federal#Ministerial-Resolution-130-1997",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Security and Safety-35/Ministerial Resolution No. (130) of 1997 Issuing the Executive Regulation of Federal Law No. (21) of 1995 Concerning Traffic.pdf",
+    "instrument": {
+      "type": "Ministerial Resolution",
+      "number": "130",
+      "year": 1997,
+      "title": "Issuing the Executive Regulation of Federal Law No. (21) of 1995 Concerning Traffic",
+      "issuer": null,
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "1997-03-31",
+    "topics": [
+      "security",
+      "traffic_safety"
+    ]
+  },
+  {
+    "category": "sports",
+    "base_id": "federal#Cabinet-Resolution-13-2015",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/sport-7/Cabinet Resolution No. (13) of 2015 Concerning the Executive Regulations of Federal Law No. (7) of 2015 On Combating Prohibited Substances in Horse Racing and Equestrian Sports.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "13",
+      "year": 2015,
+      "title": "Concerning the executive regulations of Federal Law No. (7) of 2015 on combating prohibited substances in horse racing and equestrian sports",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en/legislations/details/cabinet-resolution-13-2015-horse-racing-doping",
+      "gazette": null
+    },
+    "effective_from": "2015-03-30",
+    "topics": [
+      "sports",
+      "anti_doping",
+      "horse_racing",
+      "implementation"
+    ]
+  },
+  {
+    "category": "sports",
+    "base_id": "federal#Cabinet-Resolution-31-2015",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/sport-7/Cabinet Resolution No. (31) of 2015 Concerning the Executive Regulations of Federal Law No. (8) of 2014 Concerning the Security of Sports Facilitates and Events.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "31",
+      "year": 2015,
+      "title": "Concerning the executive regulations of Federal Law No. (8) of 2014 concerning the security of sports facilities and events",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en/legislations/details/cabinet-resolution-31-2015-sports-security",
+      "gazette": null
+    },
+    "effective_from": "2015-10-27",
+    "topics": [
+      "sports",
+      "event_security",
+      "implementation"
+    ]
+  },
+  {
+    "category": "sports",
+    "base_id": "federal#Cabinet-Resolution-46-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/sport-7/Cabinet Resolution No. (46) of 2024 Concerning the Executive Regulation of Federal Law No. (4) of 2023 Concerning Sports.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "46",
+      "year": 2024,
+      "title": "Concerning the Executive Regulation of Federal Law No. (4) of 2023 concerning sports",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en/legislations/details/cabinet-resolution-46-2024-sports-regulation",
+      "gazette": null
+    },
+    "effective_from": "2024-04-24",
+    "topics": [
+      "sports",
+      "sports_governance",
+      "licensing"
+    ]
+  },
+  {
+    "category": "sports",
+    "base_id": "federal#Law-15-2005",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/sport-7/Federal Law No. 15 of 2005 Regulating Participation in Camel Racing.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "15",
+      "year": 2005,
+      "title": "Regulating participation in camel racing",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en/legislations/details/federal-law-15-2005-camel-racing",
+      "gazette": null
+    },
+    "effective_from": "2005-07-05",
+    "topics": [
+      "sports",
+      "camel_racing"
+    ]
+  },
+  {
+    "category": "sports",
+    "base_id": "federal#Law-4-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/sport-7/Federal Law No. (4) of 2023 Concerning Sports.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "4",
+      "year": 2023,
+      "title": "Concerning Sports",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en/legislations/details/federal-law-4-2023-sports",
+      "gazette": null
+    },
+    "effective_from": "2023-05-24",
+    "topics": [
+      "sports",
+      "sports_governance",
+      "federal"
+    ]
+  },
+  {
+    "category": "sports",
+    "base_id": "federal#Law-7-2015",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/sport-7/Federal Law No. 7 of 2015 on the Combating of Substances Prohibited in Horse Racing and Equestrian Sports.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "7",
+      "year": 2015,
+      "title": "On the combating of substances prohibited in horse racing and equestrian sports",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en/legislations/details/federal-law-7-2015-horse-racing-doping",
+      "gazette": null
+    },
+    "effective_from": "2015-03-25",
+    "topics": [
+      "sports",
+      "anti_doping",
+      "horse_racing"
+    ]
+  },
+  {
+    "category": "sports",
+    "base_id": "federal#Law-8-2014",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/sport-7/Federal Law No. 8 of 2014 Concerning Sports Facilities and Events Security.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "8",
+      "year": 2014,
+      "title": "Concerning sports facilities and events security",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en/legislations/details/federal-law-8-2014-sports-security",
+      "gazette": null
+    },
+    "effective_from": "2014-10-26",
+    "topics": [
+      "sports",
+      "event_security",
+      "facilities"
+    ]
+  },
+  {
+    "category": "tax",
+    "base_id": "federal#Cabinet-Resolution-100-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Tax-37/Cabinet Resolution No. (100) of 2023 Identifying the Qualified Income for the Qualifying Free Zone for the Purpose of Federal Decree-Law No. (47) of 2023 Concerning the Corporate Tax.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "100",
+      "year": 2023,
+      "title": "Identifying the Qualified Income for the Qualifying Free Zone for the Purpose of Federal Decree-Law No. (47) of 2023 Concerning the Corporate Tax",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-06-01",
+    "topics": [
+      "corporate_tax",
+      "free_zone",
+      "tax"
+    ]
+  },
+  {
+    "category": "tax",
+    "base_id": "federal#Cabinet-Resolution-116-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Tax-37/Cabinet Resolution No. (116) of 2022 Concerning the Determination of the Amount of Annual Income Subject to Corporate Tax.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "116",
+      "year": 2022,
+      "title": "Concerning the Determination of the Amount of Annual Income Subject to Corporate Tax",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-12-30",
+    "topics": [
+      "corporate_tax",
+      "tax"
+    ]
+  },
+  {
+    "category": "tax",
+    "base_id": "federal#Cabinet-Resolution-12-2025",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Tax-37/Cabinet Resolution No. (12) of 2025 Regarding the Procedures of Objections and Appeals by Government Authorities on Tax Disputes.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "12",
+      "year": 2025,
+      "title": "Regarding the Procedures of Objections and Appeals by Government Authorities on Tax Disputes",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2025-02-10",
+    "topics": [
+      "tax"
+    ]
+  },
+  {
+    "category": "tax",
+    "base_id": "federal#Cabinet-Resolution-127-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Tax-37/Cabinet Resolution No. (127) of 2024 On the Application of Reverse Charge Mechanism to Precious Metals and Precious Stones Among Registrants in the State for Value-Added Tax Purposes.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "127",
+      "year": 2024,
+      "title": "On the Application of Reverse Charge Mechanism to Precious Metals and Precious Stones Among Registrants in the State for Value-Added Tax Purposes",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-12-16",
+    "topics": [
+      "reverse_charge",
+      "tax"
+    ]
+  },
+  {
+    "category": "tax",
+    "base_id": "federal#Cabinet-Resolution-142-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Tax-37/Cabinet Resolution No. (142) of 2024 Imposing a Top-up Tax on Multinational Enterprises.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "142",
+      "year": 2024,
+      "title": "Imposing a Top-up Tax on Multinational Enterprises",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2021-12-01",
+    "topics": [
+      "tax"
+    ]
+  },
+  {
+    "category": "tax",
+    "base_id": "federal#Cabinet-Resolution-23-2018",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Tax-37/Cabinet Resolution No. (23) of 2018 Concerning the Formation of Tax Disputes Resolution Committees, and its Relevant Regulations and Procedures.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "23",
+      "year": 2018,
+      "title": "Concerning the Formation of Tax Disputes Resolution Committees, and its Relevant Regulations and Procedures",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2018-05-01",
+    "topics": [
+      "tax"
+    ]
+  },
+  {
+    "category": "tax",
+    "base_id": "federal#Cabinet-Resolution-26-2018",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Tax-37/Cabinet Resolution No. (26) of 2018 Concerning the Refund value Added Tax Paid for the Services Provided in Exhibitions and Conferences.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "26",
+      "year": 2018,
+      "title": "Concerning the Refund value Added Tax Paid for the Services Provided in Exhibitions and Conferences",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2018-05-22",
+    "topics": [
+      "tax",
+      "vat"
+    ]
+  },
+  {
+    "category": "tax",
+    "base_id": "federal#Cabinet-Resolution-33-2019",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Tax-37/Cabinet Resolution No. (33) of 2019 Regarding Administrative Fines for Violations of the Procedures for the Application of Marking Excise Goods in accordance with Cabinet Resolution No. (42) of 2018 regarding Marking Tobacco and Tobacco Pro.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "33",
+      "year": 2019,
+      "title": "Regarding Administrative Fines for Violations of the Procedures for the Application of Marking Excise Goods in accordance with Cabinet Resolution No. (42) of 2018 regarding Marking Tobacco and Tobacco Pro",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2019-05-21",
+    "topics": [
+      "excise_tax",
+      "tax",
+      "tax_penalties"
+    ]
+  },
+  {
+    "category": "tax",
+    "base_id": "federal#Cabinet-Resolution-34-2025",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Tax-37/Cabinet Resolution No. (34) of 2025 Regarding Qualifying Investment Funds and Qualifying Limited Partnerships for the Purposes of Federal Decree by Law No. (47) of 2022 Regarding Taxation of Corporations and Businesses.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "34",
+      "year": 2025,
+      "title": "Regarding Qualifying Investment Funds and Qualifying Limited Partnerships for the Purposes of Federal Decree by Law No. (47) of 2022 Regarding Taxation of Corporations and Businesses",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2025-01-01",
+    "topics": [
+      "corporate_tax",
+      "tax"
+    ]
+  },
+  {
+    "category": "tax",
+    "base_id": "federal#Cabinet-Resolution-35-2025",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Tax-37/Cabinet Resolution No. (35) of 2025 Regarding the Determination of the Non-Resident Persons Nexus in the State for the Purpose of Federal Decree by Law No. (47) of 2022 Regarding Taxation of Corporations and Businesses.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "35",
+      "year": 2025,
+      "title": "Regarding the Determination of the Non-Resident Persons Nexus in the State for the Purpose of Federal Decree by Law No. (47) of 2022 Regarding Taxation of Corporations and Businesses",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2025-01-01",
+    "topics": [
+      "corporate_tax",
+      "tax",
+      "tax_residency"
+    ]
+  },
+  {
+    "category": "tax",
+    "base_id": "federal#Cabinet-Resolution-37-2017",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Tax-37/Cabinet Resolution No. (37) of 2017 Concerning the Executive Regulations of Federal Decree-law No. (7) of 2017 on the Excise Tax.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "37",
+      "year": 2017,
+      "title": "Concerning the Executive Regulations of Federal Decree-law No. (7) of 2017 on the Excise Tax",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2017-09-24",
+    "topics": [
+      "excise_tax",
+      "tax"
+    ]
+  },
+  {
+    "category": "tax",
+    "base_id": "federal#Cabinet-Resolution-37-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Tax-37/Cabinet Resolution No. (37) of 2023 Concerning Eligible Public Benefit Entities for the Purposes of Federal Decree-Law (47) of 2022 Concerning Corporate Tax.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "37",
+      "year": 2023,
+      "title": "Concerning Eligible Public Benefit Entities for the Purposes of Federal Decree-Law (47) of 2022 Concerning Corporate Tax",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-04-07",
+    "topics": [
+      "corporate_tax",
+      "non_profit",
+      "tax"
+    ]
+  },
+  {
+    "category": "tax",
+    "base_id": "federal#Cabinet-Resolution-41-2018",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Tax-37/Cabinet Resolution No. (41) of 2018 Concerning Applying Refunding System of Value Added Tax to Tourists.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "41",
+      "year": 2018,
+      "title": "Concerning Applying Refunding System of Value Added Tax to Tourists",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2019-01-01",
+    "topics": [
+      "tax",
+      "vat"
+    ]
+  },
+  {
+    "category": "tax",
+    "base_id": "federal#Cabinet-Resolution-42-2018",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Tax-37/Cabinet Resolution No. (42) of 2018 on Marking Tobacco and Tobacco Products.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "42",
+      "year": 2018,
+      "title": "On Marking Tobacco and Tobacco Products",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2025-10-23",
+    "topics": [
+      "excise_tax",
+      "tax"
+    ]
+  },
+  {
+    "category": "tax",
+    "base_id": "federal#Cabinet-Resolution-44-2020",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Tax-37/Cabinet Resolution No. (44) of 2020 Regarding Organizing Reports Submitted by Multinational Companies.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "44",
+      "year": 2020,
+      "title": "Regarding Organizing Reports Submitted by Multinational Companies",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2019-01-01",
+    "topics": [
+      "tax"
+    ]
+  },
+  {
+    "category": "tax",
+    "base_id": "federal#Cabinet-Resolution-48-2020",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Tax-37/Cabinet Resolution No. (48) of 2020 Regarding Determining the Remuneration of the Members of the Tax Disputes Settlement Committees.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "48",
+      "year": 2020,
+      "title": "Regarding Determining the Remuneration of the Members of the Tax Disputes Settlement Committees",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2020-06-24",
+    "topics": [
+      "tax"
+    ]
+  },
+  {
+    "category": "tax",
+    "base_id": "federal#Cabinet-Resolution-49-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Tax-37/Cabinet Resolution No. (49) of 2023 Specifying the Categories of Businesses or Business Activities Conducted by a Resident or Non-Resident Natural Person and are Subject to Corporate Tax.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "49",
+      "year": 2023,
+      "title": "Specifying the Categories of Businesses or Business Activities Conducted by a Resident or Non-Resident Natural Person and are Subject to Corporate Tax",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-06-01",
+    "topics": [
+      "corporate_tax",
+      "tax"
+    ]
+  },
+  {
+    "category": "tax",
+    "base_id": "federal#Cabinet-Resolution-52-2017",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Tax-37/Cabinet Resolution No. (52) of 2017 Concerning the Executive Regulations of Federal Decree-Law No. (8) of 2017 on Value-Added Tax (VAT).pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "52",
+      "year": 2017,
+      "title": "Concerning the Executive Regulations of Federal Decree-Law No. (8) of 2017 on Value-Added Tax (VAT)",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2018-01-01",
+    "topics": [
+      "tax",
+      "vat"
+    ]
+  },
+  {
+    "category": "tax",
+    "base_id": "federal#Cabinet-Resolution-52-2019",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Tax-37/Cabinet Resolution No. (52) of 2019 Regarding Excise Goods, the Tax Rates Imposed Thereon and the Method of Calculating the Excise Price.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "52",
+      "year": 2019,
+      "title": "Regarding Excise Goods, the Tax Rates Imposed Thereon and the Method of Calculating the Excise Price",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2020-01-01",
+    "topics": [
+      "excise_tax",
+      "tax"
+    ]
+  },
+  {
+    "category": "tax",
+    "base_id": "federal#Cabinet-Resolution-55-2019",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Tax-37/Cabinet Resolution No. (55) of 2019 Concerning the Excise Price of Tobacco Products.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "55",
+      "year": 2019,
+      "title": "Concerning the Excise Price of Tobacco Products",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2020-01-01",
+    "topics": [
+      "excise_tax",
+      "tax"
+    ]
+  },
+  {
+    "category": "tax",
+    "base_id": "federal#Cabinet-Resolution-55-2025",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Tax-37/Cabinet Resolution No. (55) of 2025 Exempting Certain Persons from the Corporate Tax for the Purposes of Federal Decree by Law No. (47) of 2022 Regarding Taxation of Corporations and Businesses.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "55",
+      "year": 2025,
+      "title": "Exempting Certain Persons from the Corporate Tax for the Purposes of Federal Decree by Law No. (47) of 2022 Regarding Taxation of Corporations and Businesses",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-06-01",
+    "topics": [
+      "corporate_tax",
+      "tax"
+    ]
+  },
+  {
+    "category": "tax",
+    "base_id": "federal#Cabinet-Resolution-56-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Tax-37/Cabinet Resolution No. (56) of 2023 Determining the Non-Resident Persons Nexus for the Purposes of Federal Decree-Law No. (47) of 2022 Concerning the Corporate Tax.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "56",
+      "year": 2023,
+      "title": "Determining the Non-Resident Persons Nexus for the Purposes of Federal Decree-Law No. (47) of 2022 Concerning the Corporate Tax",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-06-01",
+    "topics": [
+      "corporate_tax",
+      "tax",
+      "tax_residency"
+    ]
+  },
+  {
+    "category": "tax",
+    "base_id": "federal#Cabinet-Resolution-63-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Tax-37/Cabinet Resolution No. (63) of 2022 Regarding Implementing the Provisions of Federal Decree No. (9) of 2016 Ratifying an Agreement between the Government of the United Arab Emirates and the Government of the United States of America for Imp.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "63",
+      "year": 2022,
+      "title": "Regarding Implementing the Provisions of Federal Decree No. (9) of 2016 Ratifying an Agreement between the Government of the United Arab Emirates and the Government of the United States of America for Imp",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-07-12",
+    "topics": [
+      "tax"
+    ]
+  },
+  {
+    "category": "tax",
+    "base_id": "federal#Cabinet-Resolution-63-2025",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Tax-37/Cabinet Resolution No. (63) of 2025 Regarding Unincorporated Partnership Treated as Taxable Person in their Own Right for the Purposes of Federal Decree by Law No. (47) of 2022 Regarding Taxation and Corporations and Businesses.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "63",
+      "year": 2025,
+      "title": "Regarding Unincorporated Partnership Treated as Taxable Person in their Own Right for the Purposes of Federal Decree by Law No. (47) of 2022 Regarding Taxation and Corporations and Businesses",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-06-01",
+    "topics": [
+      "corporate_tax",
+      "tax"
+    ]
+  },
+  {
+    "category": "tax",
+    "base_id": "federal#Cabinet-Resolution-65-2020",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Tax-37/Cabinet Resolution No. (65) Of 2020 Concerning the Fees of the Services Provided by the Federal Tax Authority.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "65",
+      "year": 2020,
+      "title": "Concerning the Fees of the Services Provided by the Federal Tax Authority",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2020-10-01",
+    "topics": [
+      "tax"
+    ]
+  },
+  {
+    "category": "tax",
+    "base_id": "federal#Cabinet-Resolution-74-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Tax-37/Cabinet Resolution No. (74) of 2023 on the Executive Regulations of Federal Decree-Law No. (28) of 2022 on Tax Procedures.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "74",
+      "year": 2023,
+      "title": "On the Executive Regulations of Federal Decree-Law No. (28) of 2022 on Tax Procedures",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-05-13",
+    "topics": [
+      "tax"
+    ]
+  },
+  {
+    "category": "tax",
+    "base_id": "federal#Cabinet-Resolution-75-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Tax-37/Cabinet Resolution No. (75) of 2023 On the Administrative Penalties for Violations Related to the Application of Federal Decree- Law No. (47) of 2022 on the Taxation of Corporations and Businesses.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "75",
+      "year": 2023,
+      "title": "On the Administrative Penalties for Violations Related to the Application of Federal Decree- Law No. (47) of 2022 on the Taxation of Corporations and Businesses",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-08-01",
+    "topics": [
+      "corporate_tax",
+      "tax",
+      "tax_penalties"
+    ]
+  },
+  {
+    "category": "tax",
+    "base_id": "federal#Cabinet-Resolution-81-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Tax-37/Cabinet Resolution No. (81) of 2023 Concerning the Conditions for Qualifying Mutual Funds for the Purposes of Federal Decree-Law No. (47) of 2022 Concerning the Corporate and Business Tax.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "81",
+      "year": 2023,
+      "title": "Concerning the Conditions for Qualifying Mutual Funds for the Purposes of Federal Decree-Law No. (47) of 2022 Concerning the Corporate and Business Tax",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-07-18",
+    "topics": [
+      "corporate_tax",
+      "tax"
+    ]
+  },
+  {
+    "category": "tax",
+    "base_id": "federal#Cabinet-Resolution-82-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Tax-37/Cabinet Resolution No. (82) of 2022 Concerning the Refund of the Imposed Input Tax from Building and Operating Mosques.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "82",
+      "year": 2022,
+      "title": "Concerning the Refund of the Imposed Input Tax from Building and Operating Mosques",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2018-01-01",
+    "topics": [
+      "tax"
+    ]
+  },
+  {
+    "category": "tax",
+    "base_id": "federal#Cabinet-Resolution-85-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Tax-37/Cabinet Resolution No. (85) of 2022 Concerning Determining the Tax Residence.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "85",
+      "year": 2022,
+      "title": "Concerning Determining the Tax Residence",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-09-02",
+    "topics": [
+      "tax",
+      "tax_residency"
+    ]
+  },
+  {
+    "category": "tax",
+    "base_id": "federal#Cabinet-Resolution-91-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Tax-37/Cabinet Resolution No. (91) of 2023 Concerning the Application of the Reverse Charge Mechanism on Electronic Devices Among Those Registered in the State for the Purposes of Value Added Tax.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "91",
+      "year": 2023,
+      "title": "Concerning the Application of the Reverse Charge Mechanism on Electronic Devices Among Those Registered in the State for the Purposes of Value Added Tax",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-08-19",
+    "topics": [
+      "reverse_charge",
+      "tax",
+      "vat"
+    ]
+  },
+  {
+    "category": "tax",
+    "base_id": "federal#Decree-Law-28-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Tax-37/Federal Decree by Law No. (28) of 2022 Concerning Tax Procedures.pdf",
+    "instrument": {
+      "type": "Federal Decree by Law",
+      "number": "28",
+      "year": 2022,
+      "title": "Concerning Tax Procedures",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-11-05",
+    "topics": [
+      "tax"
+    ]
+  },
+  {
+    "category": "tax",
+    "base_id": "federal#Decree-Law-47-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Tax-37/Federal Decree by Law No. (47) of 2022 Concerning Corporate and Business Tax.pdf",
+    "instrument": {
+      "type": "Federal Decree by Law",
+      "number": "47",
+      "year": 2022,
+      "title": "Concerning Corporate and Business Tax",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-06-01",
+    "topics": [
+      "corporate_tax",
+      "tax"
+    ]
+  },
+  {
+    "category": "tax",
+    "base_id": "federal#Decree-Law-7-2017",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Tax-37/Federal Decree by Law No. (7) of 2017 Concerning Excise Tax.pdf",
+    "instrument": {
+      "type": "Federal Decree by Law",
+      "number": "7",
+      "year": 2017,
+      "title": "Concerning Excise Tax",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2017-08-17",
+    "topics": [
+      "excise_tax",
+      "tax"
+    ]
+  },
+  {
+    "category": "tax",
+    "base_id": "federal#Decree-Law-8-2017",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Tax-37/Federal Decree by Law No. (8) of 2017 Concerning Value-Added Tax (VAT).pdf",
+    "instrument": {
+      "type": "Federal Decree by Law",
+      "number": "8",
+      "year": 2017,
+      "title": "Concerning Value-Added Tax (VAT)",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2017-08-23",
+    "topics": [
+      "tax",
+      "vat"
+    ]
+  },
+  {
+    "category": "tax",
+    "base_id": "federal#Law-11-1981",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Tax-37/Federal Law No. (11) of 1981 Imposing Federal Customs Duty on Imports of Tobacco.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "11",
+      "year": 1981,
+      "title": "Imposing Federal Customs Duty on Imports of Tobacco",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2000-07-01",
+    "topics": [
+      "customs",
+      "excise_tax",
+      "tax"
+    ]
+  },
+  {
+    "category": "tax",
+    "base_id": "federal#Ministerial-Resolution-33-1981",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Tax-37/Ministerial Resolution No. (33) of 1981 Concerning the Issue of the Executive Regulation of the Federal Law Concerning Imposing Federal Customs Tax on the Imports of Tobacco and its Derivatives.pdf",
+    "instrument": {
+      "type": "Ministerial Resolution",
+      "number": "33",
+      "year": 1981,
+      "title": "Concerning the Issue of the Executive Regulation of the Federal Law Concerning Imposing Federal Customs Tax on the Imports of Tobacco and its Derivatives",
+      "issuer": null,
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "1981-11-02",
+    "topics": [
+      "customs",
+      "excise_tax",
+      "tax",
+      "vat"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Cabinet-Resolution-120-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Cabinet Resolution No. (120) of 2024 Regulating Events in the Civilization and Promotion of Human Values Sector.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "120",
+      "year": 2024,
+      "title": "Regulating Events in the Civilization and Promotion of Human Values Sector",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "2024-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Cabinet-Resolution-122-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Cabinet Resolution No. (122) of 2023 Concerning the Executive Regulation of Federal Decree-Law No. (41) of 2022 on the Civil Personal Status.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "122",
+      "year": 2023,
+      "title": "Concerning the Executive Regulation of Federal Decree-Law No. (41) of 2022 on the Civil Personal Status",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "2023-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Cabinet-Resolution-36-2021",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Cabinet Resolution No. (36) of 2021 Regarding the Use of Digital Transaction Technologies in Transactions and Matters Related to Personal Status.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "36",
+      "year": 2021,
+      "title": "Regarding the Use of Digital Transaction Technologies in Transactions and Matters Related to Personal Status",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "2021-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Cabinet-Resolution-38-2018",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Cabinet Resolution No. (38) of 2018 to Approve UAE Sign Language Dictionary.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "38",
+      "year": 2018,
+      "title": "To Approve UAE Sign Language Dictionary",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "2018-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Cabinet-Resolution-41-2017",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Cabinet Resolution No. (41) of 2017 Determining the Community Service Works.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "41",
+      "year": 2017,
+      "title": "Determining the Community Service Works",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "2017-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Cabinet-Resolution-43-2018",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Cabinet Resolution No. (43) of 2018 Regarding Supporting Special Needs (People of Determination) Work.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "43",
+      "year": 2018,
+      "title": "Regarding Supporting Special Needs (People of Determination) Work",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "2018-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Cabinet-Resolution-46-2019",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Cabinet Resolution No. (46) of 2019 Regarding the System of Insurance Benefits Exchange Between Retirement Funds Applicable in the State.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "46",
+      "year": 2019,
+      "title": "Regarding the System of Insurance Benefits Exchange Between Retirement Funds Applicable in the State",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "2019-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Cabinet-Resolution-5-2017",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Cabinet Resolution No. (5) of 2017 Regarding the Conditions, Controls, and Procedures for Disbursement of Marriage Grants.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "5",
+      "year": 2017,
+      "title": "Regarding the Conditions, Controls, and Procedures for Disbursement of Marriage Grants",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "2017-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Cabinet-Resolution-5-2025",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Cabinet Resolution No. (5) of 2025 Regarding the Executive Regulations of Federal Decree-Law No. (50) 2023 Regarding the Regulations of Public Welfare Associations.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "5",
+      "year": 2025,
+      "title": "Regarding the Executive Regulations of Federal Decree-Law No. (50) 2023 Regarding the Regulations of Public Welfare Associations",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "2025-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Cabinet-Resolution-52-2018",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Cabinet Resolution No. (52) of 2018 Concerning the Executive Regulation of Federal Law No. (3) of 2016 on Child Rights Law (Wadeema).pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "52",
+      "year": 2018,
+      "title": "Concerning the Executive Regulation of Federal Law No. (3) of 2016 on Child Rights Law (Wadeema)",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "2018-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Cabinet-Resolution-54-2020",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Cabinet Resolution No. (54) of 2020 Regarding the Non-Governmental Institutions Providing Rehabilitation for Persons with Disabilities.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "54",
+      "year": 2020,
+      "title": "Regarding the Non-Governmental Institutions Providing Rehabilitation for Persons with Disabilities",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "2020-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Cabinet-Resolution-54-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Cabinet Resolution No. (54) of 2024 Concerning the Executive Regulations of the Federal Decree-Law No. (24) of 2022 Concerning Children of Unknown Parentage.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "54",
+      "year": 2024,
+      "title": "Concerning the Executive Regulations of the Federal Decree-Law No. (24) of 2022 Concerning Children of Unknown Parentage",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "2024-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Cabinet-Resolution-57-2025",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Cabinet Resolution No. (57) of 2025 Regarding the Executive Regulations of Federal Decree by Law No. (23) of 2024 Regarding Social Support and Empowerment.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "57",
+      "year": 2025,
+      "title": "Regarding the Executive Regulations of Federal Decree by Law No. (23) of 2024 Regarding Social Support and Empowerment",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "2025-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Cabinet-Resolution-58-2025",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Cabinet Resolution No. (58) of 2025 Regarding Inflation Allowance.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "58",
+      "year": 2025,
+      "title": "Regarding Inflation Allowance",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "2025-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Cabinet-Resolution-59-2025",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Cabinet Resolution No. (59) of 2025 Regarding the Control of Social Support Disbursement to Unemployed Individuals.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "59",
+      "year": 2025,
+      "title": "Regarding the Control of Social Support Disbursement to Unemployed Individuals",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "2025-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Cabinet-Resolution-61-2021",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Cabinet Resolution No. (61) of 2021 Regarding the Conditions and Controls for the Provision of Housing Assistance.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "61",
+      "year": 2021,
+      "title": "Regarding the Conditions and Controls for the Provision of Housing Assistance",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "2021-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Cabinet-Resolution-70-2020",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Cabinet Resolution No. (70) of 2020 Concerning the Executive Regulations of Federal Law No. (13) of 2018 Concerning Volunteer Work.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "70",
+      "year": 2020,
+      "title": "Concerning the Executive Regulations of Federal Law No. (13) of 2018 Concerning Volunteer Work",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "2020-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Cabinet-Resolution-71-2020",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Cabinet Resolution No. (71) Of 2020 Regarding Controls of Marriage for Those Who Have Attained Puberty Before the Age Of 18.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "71",
+      "year": 2020,
+      "title": "Regarding Controls of Marriage for Those Who Have Attained Puberty Before the Age Of 18",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "2020-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Cabinet-Resolution-78-2025",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Cabinet Resolution No. (78) of 2025 Regarding the Administrative Violations and Penalties for the Acts Committed in Violation of Federal Decree by Law No. (50) of 2023 Regarding the Regulation of Public Welfare Associations.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "78",
+      "year": 2025,
+      "title": "Regarding the Administrative Violations and Penalties for the Acts Committed in Violation of Federal Decree by Law No. (50) of 2023 Regarding the Regulation of Public Welfare Associations",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "2025-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Cabinet-Resolution-9-2021",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Cabinet Resolution No. (9) of 2021 Concerning the Executive Regulations of Federal Law No. (9) of 2019 Concerning the Rights of Senior Emiratis.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "9",
+      "year": 2021,
+      "title": "Concerning the Executive Regulations of Federal Law No. (9) of 2019 Concerning the Rights of Senior Emiratis",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "2021-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Cabinet-Resolution-96-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Cabinet Resolution No. (96) of 2022 Concerning the Executive Regulation of Federal Law No. (3) of 2021 Regulating Donations.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "96",
+      "year": 2022,
+      "title": "Concerning the Executive Regulation of Federal Law No. (3) of 2021 Regulating Donations",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "2022-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Cabinet-Resolution-3-2015",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Cabinet Resolution No. 3 of 2015 Regarding Private Family Counseling Centers.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "3",
+      "year": 2015,
+      "title": "Regarding Private Family Counseling Centers",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "2015-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Federal-Decree-Law-51-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Federal Decree Law No. (51) of 2022  Regulating Nurseries.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "51",
+      "year": 2022,
+      "title": "Regulating Nurseries",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "2022-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Federal-Decree-Law-50-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Federal Decree by Law No. (50) of 2023 Concerning the Regulations of Public Welfare Association.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "50",
+      "year": 2023,
+      "title": "Concerning the Regulations of Public Welfare Association",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "2023-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Federal-Decree-Law-13-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Federal Decree-Law No. (13) of 2024 on the Protection Against Domestic Violence.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "13",
+      "year": 2024,
+      "title": "On the Protection Against Domestic Violence",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "2024-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Federal-Decree-Law-23-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Federal Decree-Law No. (23) of 2024 on Social Support and Empowerment.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "23",
+      "year": 2024,
+      "title": "On Social Support and Empowerment",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "2024-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Federal-Decree-Law-24-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Federal Decree-Law No. (24) of 2022 Regarding Children of Unknown Parentage.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "24",
+      "year": 2022,
+      "title": "Regarding Children of Unknown Parentage",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "2022-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Federal-Decree-Law-41-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Federal Decree-Law No. (41) of 2022 On the Civil Personal Status.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "41",
+      "year": 2022,
+      "title": "On the Civil Personal Status",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "2022-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Federal-Decree-Law-41-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Federal Decree-Law No. (41) of 2024 On the Issuance of the Personal Status Law.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "41",
+      "year": 2024,
+      "title": "On the Issuance of the Personal Status Law",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "2024-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Federal-Law-19-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Federal Law No (19) of 2022 on the Rights of Senior Emiratis.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "19",
+      "year": 2022,
+      "title": "On the Rights of Senior Emiratis",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "2022-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Federal-Law-29-2006",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Federal Law No (29) of 2006 Concerning the Rights of Persons with Special Needs.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "29",
+      "year": 2006,
+      "title": "Concerning the Rights of Persons with Special Needs",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "2006-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Federal-Law-13-2018",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Federal Law No. (13) of 2018 on the Volunteer Work.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "13",
+      "year": 2018,
+      "title": "On the Volunteer Work",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "2018-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Federal-Law-3-2016",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Federal Law No. (3) of 2016 on Child Rights Law (Wadeema).pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "3",
+      "year": 2016,
+      "title": "On Child Rights Law (Wadeema)",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "2016-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Federal-Law-3-2021",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Federal Law No. (3) of 2021 Regulating Donations.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "3",
+      "year": 2021,
+      "title": "Regulating Donations",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "2021-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Federal-Law-7-1999",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Federal Law No. (7) of 1999 Promulgating the Pensions and Social Security Law.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "7",
+      "year": 1999,
+      "title": "Promulgating the Pensions and Social Security Law",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "1999-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Federal-Law-21-1997",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Federal Law No. 21 of 1997 Determining the Dowry in the Marriage Contract and the Expenses thereof.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "21",
+      "year": 1997,
+      "title": "Determining the Dowry in the Marriage Contract and the Expenses thereof",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "1997-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Federal-Decree-Law-57-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Federal Law by Decree No. (57) of 2023 Concerning Pension and Social Security.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "57",
+      "year": 2023,
+      "title": "Concerning Pension and Social Security",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "2023-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#Ministerial-Resolution-1-2013",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/Ministerial Resolution No. (1) of 2013 concerning the Executive Regulation of the Pensions and Social Security Federal Law No.(7) of 1999.pdf",
+    "instrument": {
+      "type": "Ministerial Resolution",
+      "number": "1",
+      "year": 2013,
+      "title": "Concerning the Executive Regulation of the Pensions and Social Security Federal Law No.(7) of 1999",
+      "issuer": null,
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "2013-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  },
+  {
+    "category": "family_and_community",
+    "base_id": "federal#President-of-the-State-Resolution-12-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Family and Community-39/President of the State Resolution No. (12) of 2022 Concerning the Treatment of Female Emirati Nationals Children in the Fields of Education and Health.pdf",
+    "instrument": {
+      "type": "President of the State Resolution",
+      "number": "12",
+      "year": 2022,
+      "title": "Concerning the Treatment of Female Emirati Nationals Children in the Fields of Education and Health",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": null,
+      "gazette": null
+    },
+    "effective_from": "2022-01-01",
+    "topics": [
+      "family_policy",
+      "community_development"
+    ]
+  }
+]

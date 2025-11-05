@@ -130,3 +130,57 @@ def answer_endpoint(
     session: Session = Depends(get_db),
 ) -> AnswerResponse:
     return run_answer(session, payload)
+
+from pydantic import BaseModel
+import httpx
+
+TRANSLATOR_BASE_URL = os.getenv("TRANSLATOR_BASE_URL")
+TRANSLATOR_TIMEOUT = float(os.getenv("TRANSLATOR_TIMEOUT", "15"))
+
+
+class TranslatePayload(BaseModel):
+    texts: list[str]
+
+
+class TranslateRequest(BaseModel):
+    texts: list[str]
+
+
+class TranslateResponse(BaseModel):
+    translations: list[str]
+
+
+@app.post("/translate", response_model=TranslateResponse)
+async def translate_endpoint(payload: TranslateRequest) -> TranslateResponse:
+    if not payload.texts:
+        raise HTTPException(status_code=400, detail="texts must not be empty")
+
+    if not TRANSLATOR_BASE_URL:
+        raise HTTPException(status_code=503, detail="Translation service unavailable")
+
+    try:
+        request_body = TranslatePayload(texts=payload.texts)
+        payload_json = (
+            request_body.model_dump()  # type: ignore[attr-defined]
+            if hasattr(request_body, "model_dump")
+            else request_body.dict()
+        )
+
+        async with httpx.AsyncClient(timeout=TRANSLATOR_TIMEOUT) as client:
+            response = await client.post(
+                f"{TRANSLATOR_BASE_URL}/translate",
+                json=payload_json,
+            )
+        response.raise_for_status()
+        data = response.json()
+        translations = data.get("translations")
+        if not isinstance(translations, list):
+            raise ValueError("Invalid response format from translator")
+        return TranslateResponse(translations=[str(item) for item in translations])
+    except httpx.HTTPStatusError as exc:
+        raise HTTPException(
+            status_code=exc.response.status_code,
+            detail=f"Translation service error: {exc.response.text}",
+        ) from exc
+    except Exception as exc:  # pylint: disable=broad-except
+        raise HTTPException(status_code=502, detail="Translation service unavailable") from exc

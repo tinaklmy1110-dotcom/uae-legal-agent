@@ -1,6 +1,6 @@
 'use client';
 
-import { useCallback, useEffect, useState } from "react";
+import { useCallback, useEffect, useMemo, useState } from "react";
 
 import FilterPanel from "../components/FilterPanel";
 import LawCard, { type Citation } from "../components/LawCard";
@@ -72,6 +72,19 @@ export default function HomePage() {
     });
   }, [jurisdiction, topics, asOf, query, runSearch]);
 
+  const highlightTerms = useMemo(
+    () =>
+      Array.from(
+        new Set(
+          query
+            .trim()
+            .split(/\s+/)
+            .filter((term) => term.length > 0),
+        ),
+      ),
+    [query],
+  );
+
   return (
     <main className="min-h-screen bg-slate-50 pb-16">
       <div className="mx-auto flex max-w-6xl flex-col gap-8 px-4 py-12 lg:flex-row">
@@ -97,12 +110,20 @@ export default function HomePage() {
                 检索结果
               </h2>
               <span className="text-sm text-muted">
-                {isLoading ? "检索中…" : `共 ${results.length} 条`}
+                {isLoading
+                  ? "检索中…"
+                  : query
+                    ? `共 ${results.length} 条匹配 “${query}”`
+                    : `共 ${results.length} 条`}
               </span>
             </div>
             <div className="space-y-4">
               {results.map((item) => (
-                <LawCard key={item.id} citation={item} />
+                <LawCard
+                  key={item.id}
+                  citation={item}
+                  highlightTerms={highlightTerms}
+                />
               ))}
               {!results.length && !isLoading ? (
                 <p className="rounded-lg border border-dashed border-gray-300 bg-white px-4 py-8 text-center text-sm text-muted">

@@ -1,0 +1,6 @@
+fastapi==0.110.1
+uvicorn[standard]==0.29.0
+transformers==4.39.3
+sentencepiece==0.1.99
+torch==2.2.2
+numpy<2

@@ -57,7 +57,7 @@ docker compose exec backend python -m utils.seed_loader ./data/seed_samples.json
 
 - `backend/`：FastAPI 应用、RAG 检索逻辑、SQLAlchemy ORM、pgvector 混合检索与测试。
 - `frontend/`：Next.js App Router 页面、搜索组件、Tailwind 样式。
-- `data/seed_samples.json`：10+ 条 UAE 法规样例（联邦 / 迪拜 / DIFC / ADGM）。
+- `data/seed_samples.json`：5383 条联邦体育、劳动/居留/行业监管、税务、安保、经贸等法规的条款级切片。
 - `docker-compose.yml`：数据库、后端、前端三容器协同启动。
 - `.env.example` & `backend/.env.example`：统一配置入口。
 
@@ -92,6 +92,27 @@ docker compose exec backend python -m backend.utils.upsert_slice \
 docker compose exec backend python -m backend.utils.search_vector --query "tenancy deposit"
 ```
 
+### 数据重建
+
+```bash
+# 1) 根据 manifest 生成条款级 JSON（可指定类别）
+python3 scripts/generate_article_slices.py                  # 全量
+# 或者只生成体育数据 / 劳动数据
+python3 scripts/generate_article_slices.py --category sports
+python3 scripts/generate_article_slices.py --category labour_residency_professions
+
+# 2) 校验并写入数据库
+docker compose exec backend python -m backend.utils.seed_loader ../data/seed_samples.json
+```
+
+### 数据集说明
+
+- **数据来源**：`data/law_manifest.json` 描述的官方 PDF（当前包含 `sport-7`、`Labour, Residency and Professions-43`、`Tax-37`、`Security and Safety-35`、`Economy and Business-73` 五个目录），由 `scripts/generate_article_slices.py` 统一切分。
+- **覆盖范围**：195 部联邦层级法规（体育治理、赛事安保、反兴奋剂、骆驼赛、劳动与居留、执业资格、税务、国家安全、经济与商业监管等），拆解成 5383 条条款级切片并补齐层级信息。
+- **层级信息**：自动抽取 `part/chapter/section/article` 并在 `structure.path` 拼装路径，方便前端显示与后续引用。
+- **主题标签**：`topics` 字段覆盖 `sports_governance`、`event_security`、`anti_doping`、`camel_racing`、`labour_relations`、`legal_profession`、`residency`、`social_security`、`tax`、`corporate_tax`、`counter_terrorism`、`aml_cft`、`economy`、`competition`、`consumer_protection`、`virtual_assets` 等，有利于向量检索加权或 UI 筛选。
+- **检索示例**：体育治理（`sports federation governance`）、赛事安保（`sports facility security officer duties`）、反兴奋剂（`prohibited substances horse racing`）、骆驼赛（`camel racing participation penalties`）、劳动法规（`work injuries occupational diseases`）、居留政策（`entry residence foreigners`）、执业资格（`legal profession code of ethics`）。
+
 ### API 约定
 
 - `POST /search` → `SearchResponse`：返回条文卡片（标题、结构路径、官方链接、公报号、摘要）。
@@ -121,13 +142,26 @@ docker compose exec backend python -m backend.utils.search_vector --query "tenan
 - `docker compose up --build` 后访问 `http://localhost:3000/` 可检索样例。
 - `docker compose exec backend pytest`：运行后端单测。
 - `docker compose exec backend python -m utils.seed_loader ./data/seed_samples.json`：重复执行将覆盖更新。
+- 也可在宿主机直接运行 `python -m backend.utils.seed_loader <payload.json>`，此时请在 `backend/.env` 将 `DB_HOST=localhost`、`POSTGRES_PORT=5433`（对应 compose 中 `ports: "5433:5432"`）或使用你实际暴露的端口。
 
 ## 二次开发指引
 
 - **替换嵌入模型**：在 `backend/search.py::embed` 中接入实际向量服务（如本地模型或 OpenAI 兼容接口），并确保 `vector_embedding` 保存维度一致。
 - **关键字检索增强**：可引入 PostgreSQL `tsvector` 全文检索或独立 BM25 服务，替换 `keyword_search` 逻辑。
 - **数据采集**：`data/seed_samples.json` 可扩展为爬虫输出，或对接官方 API。
-- **前端 API**：若需代理或鉴权，可在 `NEXT_PUBLIC_API_BASE_URL` 指向网关服务。
+- **前端 API**：浏览器侧用 `NEXT_PUBLIC_API_BASE_URL`，SSR/容器内部调用可使用 `INTERNAL_API_BASE_URL`（如 `http://backend:8000`）。
+
+## 数据采集流水线
+
+- `pipeline/` 目录提供动态脚手架，支持从 UAE Legislation Portal 等官方渠道爬取法规。
+- `pipeline/config.yaml` 用于声明各数据源、抓取端点、字段映射与入库策略，可按需扩展。
+- 使用示例：
+  ```bash
+  # 运行指定数据源
+  python -m pipeline.jobs.run_pipeline --source uae_federal
+  ```
+- 流水线执行顺序：Sources 抓原始 HTML/JSON → Extractors 解析条文切片 → Loaders 调用 `seed_loader` 入库。
+- 所有解析逻辑均通过配置驱动，可在官方站点结构变更时调整 `options` 而无需改代码。
 
 ## 可替换模块清单
 
@@ -138,7 +172,6 @@ docker compose exec backend python -m backend.utils.search_vector --query "tenan
 5. Docker 基础镜像：可将 `backend/Dockerfile` 替换为企业内部 Python 基线镜像，或将 `frontend/Dockerfile` 改为生产多阶段构建。
 
 ## 调试技巧
-
 - `docker compose logs -f backend` 观察 FastAPI 日志。
 - `docker compose exec db psql -U postgres -d uae_legal -c "SELECT id, level, name FROM legal_slice LIMIT 5;"` 检查数据写入。
 - `curl -X POST http://localhost:8000/search -H "Content-Type: application/json" -d '{"query": "tenancy deposit"}'` 进行 API smoke test。

@@ -11,7 +11,16 @@ from sqlalchemy.orm import sessionmaker
 
 load_dotenv()
 
-DEFAULT_DB_URL = "postgresql+psycopg://postgres:postgres@db:5432/uae_legal"
+DEFAULT_DB_HOST = os.getenv("DB_HOST") or os.getenv("POSTGRES_HOST") or "db"
+DEFAULT_DB_PORT = os.getenv("POSTGRES_PORT", "5432")
+DEFAULT_DB_NAME = os.getenv("POSTGRES_DB", "uae_legal")
+DEFAULT_DB_USER = os.getenv("POSTGRES_USER", "postgres")
+DEFAULT_DB_PASSWORD = os.getenv("POSTGRES_PASSWORD", "postgres")
+
+DEFAULT_DB_URL = (
+    f"postgresql+psycopg://{DEFAULT_DB_USER}:{DEFAULT_DB_PASSWORD}"
+    f"@{DEFAULT_DB_HOST}:{DEFAULT_DB_PORT}/{DEFAULT_DB_NAME}"
+)
 SUPPORTED_METRICS = {
     "cosine": "vector_cosine_ops",
     "ip": "vector_ip_ops",

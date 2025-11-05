@@ -1,9 +1,14 @@
 import Link from "next/link";
 
 import CitationBlock from "../../../components/CitationBlock";
+import TranslationPanel from "../../../components/TranslationPanel";
+
+export const dynamic = "force-dynamic";
 
 const API_BASE_URL =
-  process.env.NEXT_PUBLIC_API_BASE_URL ?? "http://localhost:8000";
+  process.env.INTERNAL_API_BASE_URL ??
+  process.env.NEXT_PUBLIC_API_BASE_URL ??
+  "http://localhost:8000";
 
 type LegalSlice = {
   id: string;
@@ -62,9 +67,10 @@ type PageProps = {
 };
 
 export default async function ResultDetailPage({ params }: PageProps) {
+  const decodedId = decodeURIComponent(params.id);
   let data: LegalSlice | null = null;
   try {
-    data = await fetchLegalSlice(params.id);
+    data = await fetchLegalSlice(decodedId);
   } catch (error) {
     if (error instanceof Error && error.message === "NOT_FOUND") {
       return (
@@ -104,6 +110,8 @@ export default async function ResultDetailPage({ params }: PageProps) {
           {data.text_content}
         </p>
       </section>
+
+      <TranslationPanel sourceText={data.text_content} />
 
       <section className="grid gap-4 md:grid-cols-2">
         <div className="rounded-lg border border-gray-200 bg-white p-4 text-sm text-neutral">

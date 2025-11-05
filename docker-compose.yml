@@ -38,9 +38,18 @@ services:
     depends_on:
       - backend
     environment:
+      INTERNAL_API_BASE_URL: ${INTERNAL_API_BASE_URL:-http://backend:8000}
       NEXT_PUBLIC_API_BASE_URL: ${NEXT_PUBLIC_API_BASE_URL:-http://backend:8000}
     ports:
       - "${FRONTEND_PORT:-3000}:3000"
+
+  translator:
+    build:
+      context: ./translator
+    environment:
+      TRANSLATOR_MODEL: ${TRANSLATOR_MODEL:-Helsinki-NLP/opus-mt-en-zh}
+    ports:
+      - "${TRANSLATOR_PORT:-9000}:9000"
 
 volumes:
   pg_data:

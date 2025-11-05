@@ -5,9 +5,9 @@ from datetime import date, timedelta
 import pytest
 from sqlalchemy import delete
 
-from db import get_session, init_db
-from models import LegalSlice as LegalSliceModel
-from search import hybrid_search, to_filters, vector_search
+from backend.db import get_session, init_db
+from backend.models import LegalSlice as LegalSliceModel
+from backend.search import hybrid_search, to_filters, vector_search
 
 
 @pytest.fixture(autouse=True)
@@ -26,7 +26,7 @@ def _create_slice(
     effective_from: date,
     effective_to: date | None = None,
 ):
-    from search import embed
+    from backend.search import embed
 
     with get_session() as session:
         session.add(
