@@ -14,6 +14,7 @@ from PyPDF2 import PdfReader
 REPO_ROOT = Path(__file__).resolve().parents[1]
 MANIFEST_PATH = REPO_ROOT / "data" / "law_manifest.json"
 OUTPUT_PATH = REPO_ROOT / "data" / "seed_samples.json"
+DEFAULT_SOURCE_URL = "https://uaelegislation.gov.ae/en"
 
 ARTICLE_RE = re.compile(r"Article\s*\((\d+)\)", re.IGNORECASE)
 CHAPTER_RE = re.compile(r"Chapter\s+([A-Za-z0-9]+)", re.IGNORECASE)
@@ -57,7 +58,10 @@ def load_manifest(categories: Optional[Sequence[str]]) -> List[LawMeta]:
                 base_id=entry["base_id"],
                 pdf_rel_path=entry["pdf_rel_path"],
                 instrument=entry["instrument"],
-                source=entry["source"],
+                source={
+                    **entry["source"],
+                    "url": entry["source"].get("url") or DEFAULT_SOURCE_URL,
+                },
                 effective_from=entry["effective_from"],
                 topics=entry.get("topics", []),
                 category=entry_category or entry["category"],
