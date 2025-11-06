@@ -182,8 +182,9 @@ docker compose exec backend python -m backend.utils.seed_loader ../data/seed_sam
 - Render Web 服务配置示例：
   - Root Directory: `.`（整个仓库）
   - Build Command: `pip install -r requirements.txt`
-  - Start Command: `uvicorn backend.main:app --host 0.0.0.0 --port $PORT`
+  - Start Command: `./scripts/render_boot.sh`
   - 可在 Render 控制台添加 `DB_URL`、`PGVECTOR_DIM` 等环境变量或导入 `.env`。
+  - 若需跳过自动导入，可设置 `RUN_SEED_ON_BOOT=0`。
 - 如果需部署前端，可额外创建一个 Static Site，使用 `frontend/` 目录运行 `npm install && npm run build`（deploy command `npm run build`，publish `frontend/out` 或使用 Next.js Serverless 方案）。
 
 ---
