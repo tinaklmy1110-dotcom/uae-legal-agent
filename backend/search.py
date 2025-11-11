@@ -44,6 +44,17 @@ QUERY_SYNONYMS = {
     ],
 }
 
+JURISDICTION_KEYWORDS = {
+    "abu dhabi": ["abu dhabi", "abudhabi"],
+    "dubai": ["dubai"],
+    "sharjah": ["sharjah"],
+    "ajman": ["ajman"],
+    "umm al quwain": ["umm al quwain", "umm-al-quwain", "uaq"],
+    "ras al khaimah": ["ras al khaimah", "rak"],
+    "fujairah": ["fujairah"],
+    "federal": ["federal", "uae"],
+}
+
 
 @dataclass
 class SearchFilters:
@@ -229,15 +240,24 @@ def _build_term_groups(query: str) -> List[List[str]]:
 def hybrid_search(
     session: Session, query: str, filters: SearchFilters, limit: int = 10
 ) -> List[Tuple[LegalSlice, float]]:
+    phrase_results = phrase_search(session, query, filters, k=min(limit, 6))
     vector_results = vector_search(session, query, filters, k=min(limit, 8))
     keyword_results = keyword_search(session, query, filters, k=min(limit * 2, 16))
 
     combined: dict[str, Tuple[LegalSlice, float]] = {}
 
+    for rank, (slice_obj, score) in enumerate(phrase_results):
+        base_score = max(score, 0.0)
+        combined[slice_obj.id] = (slice_obj, base_score)
+
     for rank, (slice_obj, score) in enumerate(vector_results):
         base_score = 1.2 / (1 + rank)
         base_score += max(0.0, float(score))
-        combined[slice_obj.id] = (slice_obj, base_score)
+        if slice_obj.id in combined:
+            existing_slice, existing_score = combined[slice_obj.id]
+            combined[slice_obj.id] = (existing_slice, existing_score + base_score)
+        else:
+            combined[slice_obj.id] = (slice_obj, base_score)
 
     for rank, (slice_obj, kw_score) in enumerate(keyword_results):
         increment = 0.8 / (1 + rank)
@@ -256,6 +276,83 @@ def hybrid_search(
 
     ranked = sorted(combined.values(), key=lambda item: item[1], reverse=True)
     return ranked[:limit]
+
+
+def phrase_search(
+    session: Session,
+    query: str,
+    filters: SearchFilters,
+    k: int = 6,
+) -> Sequence[Tuple[LegalSlice, float]]:
+    if not query:
+        return []
+    phrase = " ".join(query.strip().split())
+    if len(phrase.split()) < 2:
+        return []
+
+    pattern = f"%{phrase}%"
+    stmt = select(LegalSlice).where(
+        or_(
+            LegalSlice.title.ilike(pattern),
+            LegalSlice.path.ilike(pattern),
+            LegalSlice.text_content.ilike(pattern),
+        )
+    )
+
+    conditions = _build_filtered_query(filters)
+    if conditions:
+        stmt = stmt.where(and_(*conditions))
+
+    stmt = stmt.order_by(LegalSlice.year.desc()).limit(k)
+    rows = session.execute(stmt).all()
+    ranked: List[Tuple[LegalSlice, float]] = []
+    for rank, (slice_obj,) in enumerate(rows):
+        base_score = 3.0 / (1 + rank)
+        ranked.append((slice_obj, base_score))
+    return ranked
+
+
+def boost_ranked_results(
+    ranked_results: List[Tuple[LegalSlice, float]], query: str
+) -> List[Tuple[LegalSlice, float]]:
+    query_lower = (query or "").lower()
+    if not query_lower.strip():
+        return ranked_results
+
+    preferred_keyword = None
+    for key, aliases in JURISDICTION_KEYWORDS.items():
+        if any(alias in query_lower for alias in aliases):
+            preferred_keyword = key
+            break
+
+    if not preferred_keyword:
+        return ranked_results
+
+    def matches(record: LegalSlice) -> bool:
+        targets = [
+            record.name or "",
+            record.emirate or "",
+            record.level or "",
+        ]
+        return any(
+            preferred_keyword in target.lower()
+            for target in targets
+            if target
+        )
+
+    preferred_bucket: List[Tuple[LegalSlice, float]] = []
+    fallback_bucket: List[Tuple[LegalSlice, float]] = []
+
+    for slice_obj, score in ranked_results:
+        if matches(slice_obj):
+            preferred_bucket.append((slice_obj, score + 0.8))
+        else:
+            fallback_bucket.append((slice_obj, score - 0.15))
+
+    preferred_bucket.sort(key=lambda item: item[1], reverse=True)
+    fallback_bucket.sort(key=lambda item: item[1], reverse=True)
+
+    return preferred_bucket + fallback_bucket
 
 
 def to_filters(

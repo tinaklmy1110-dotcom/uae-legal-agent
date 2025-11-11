@@ -5351,5 +5351,2378 @@
       "family_policy",
       "community_development"
     ]
+  },
+  {
+    "category": "justice_judiciary",
+    "base_id": "federal#Cabinet-Resolution-119-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Justice and Judiciary-33/Cabinet Resolution No. (119) of 2022 Concerning the Executive Regulation of Federal Law No. (14) of 2021 on the Creation and Regulation of Owners Association.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "119",
+      "year": 2022,
+      "title": "Concerning the Executive Regulation of Federal Law No. (14) of 2021 on the Creation and Regulation of Owners Association",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-01-01",
+    "topics": [
+      "justice",
+      "judiciary"
+    ]
+  },
+  {
+    "category": "justice_judiciary",
+    "base_id": "federal#Cabinet-Resolution-28-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Justice and Judiciary-33/Cabinet Resolution No. (28) of 2023 on the Executive Regulations of Federal Decree-Law No. (46) of 2021 on Electronic Transactions and Trust Services.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "28",
+      "year": 2023,
+      "title": "on the Executive Regulations of Federal Decree-Law No. (46) of 2021 on Electronic Transactions and Trust Services",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-01-01",
+    "topics": [
+      "justice",
+      "judiciary"
+    ]
+  },
+  {
+    "category": "justice_judiciary",
+    "base_id": "federal#Cabinet-Resolution-29-2021",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Justice and Judiciary-33/Cabinet Resolution No. (29) of 2021 Concerning the Executive Regulations of Federal Law No. (4) of 2020 Securing Rights in Moveable Assets.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "29",
+      "year": 2021,
+      "title": "Concerning the Executive Regulations of Federal Law No. (4) of 2020 Securing Rights in Moveable Assets",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2021-01-01",
+    "topics": [
+      "justice",
+      "judiciary"
+    ]
+  },
+  {
+    "category": "justice_judiciary",
+    "base_id": "federal#Cabinet-Resolution-47-2021",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Justice and Judiciary-33/Cabinet Resolution No. (47) of 2021 Regarding the Determination of the Debt Amount Requiring the Debtor to File an Application to Initiate Insolvency and Liquidation Proceedings and the Amendment of Certain Timeframes Set Forth in Federal D.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "47",
+      "year": 2021,
+      "title": "Regarding the Determination of the Debt Amount Requiring the Debtor to File an Application to Initiate Insolvency and Liquidation Proceedings and the Amendment of Certain Timeframes Set Forth in Federal D",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2021-01-01",
+    "topics": [
+      "justice",
+      "judiciary"
+    ]
+  },
+  {
+    "category": "justice_judiciary",
+    "base_id": "federal#Cabinet-Resolution-47-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Justice and Judiciary-33/Cabinet Resolution No. (47) of 2023 on the Executive Regulations of Federal Law No. (14) of 2020 on the Protection of Witnesses and the Like.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "47",
+      "year": 2023,
+      "title": "on the Executive Regulations of Federal Law No. (14) of 2020 on the Protection of Witnesses and the Like",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-01-01",
+    "topics": [
+      "justice",
+      "judiciary"
+    ]
+  },
+  {
+    "category": "justice_judiciary",
+    "base_id": "federal#Cabinet-Resolution-52-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Justice and Judiciary-33/Cabinet Resolution No. (52) of 2024 Concerning the Administrative Penalties for Violating the Provisions of Federal Decree-Law No. (46) of 2021 Concerning Electronic Transactions and Trust Services and its Executive Regulations.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "52",
+      "year": 2024,
+      "title": "Concerning the Administrative Penalties for Violating the Provisions of Federal Decree-Law No. (46) of 2021 Concerning Electronic Transactions and Trust Services and its Executive Regulations",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-01-01",
+    "topics": [
+      "justice",
+      "judiciary"
+    ]
+  },
+  {
+    "category": "justice_judiciary",
+    "base_id": "federal#Cabinet-Resolution-56-2025",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Justice and Judiciary-33/Cabinet Resolution No. (56) of 2025 Regarding Private Mediation Centers and Branches of Foreign Mediation Centers.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "56",
+      "year": 2025,
+      "title": "Regarding Private Mediation Centers and Branches of Foreign Mediation Centers",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2025-01-01",
+    "topics": [
+      "justice",
+      "judiciary"
+    ]
+  },
+  {
+    "category": "justice_judiciary",
+    "base_id": "federal#Cabinet-Resolution-6-2018",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Justice and Judiciary-33/Cabinet Resolution No. (6) of 2018 Regarding the Creation of a Register for Registration of Rights on Movable Property.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "6",
+      "year": 2018,
+      "title": "Regarding the Creation of a Register for Registration of Rights on Movable Property",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2018-01-01",
+    "topics": [
+      "justice",
+      "judiciary"
+    ]
+  },
+  {
+    "category": "justice_judiciary",
+    "base_id": "federal#Cabinet-Resolution-8-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Justice and Judiciary-33/Cabinet Resolution No. (8) of 2023 Extending the Period for Status Regulation for those Subjected to the Provisions of Federal Decree by Law No. (46) of 2021 Concerning Electronic Transactions and Trust Services.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "8",
+      "year": 2023,
+      "title": "Extending the Period for Status Regulation for those Subjected to the Provisions of Federal Decree by Law No. (46) of 2021 Concerning Electronic Transactions and Trust Services",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-01-01",
+    "topics": [
+      "justice",
+      "judiciary"
+    ]
+  },
+  {
+    "category": "justice_judiciary",
+    "base_id": "federal#Federal-Decree-Law-19-1993",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Justice and Judiciary-33/Federal Decree Law No. (19) of 1993 for Defining the Maritime Areas of the United Arab Emirates.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "19",
+      "year": 1993,
+      "title": "for Defining the Maritime Areas of the United Arab Emirates",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "1993-01-01",
+    "topics": [
+      "justice",
+      "judiciary"
+    ]
+  },
+  {
+    "category": "justice_judiciary",
+    "base_id": "federal#Federal-Decree-Law-5-1985",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Justice and Judiciary-33/Federal Decree Law No. (5) of 1985 Concerning the Issuance of the Civil Transactions Law of the United Arab Emirates.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "5",
+      "year": 1985,
+      "title": "Concerning the Issuance of the Civil Transactions Law of the United Arab Emirates",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "1985-01-01",
+    "topics": [
+      "justice",
+      "judiciary"
+    ]
+  },
+  {
+    "category": "justice_judiciary",
+    "base_id": "federal#Federal-Decree-Law-1-2001",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Justice and Judiciary-33/Federal Decree by Law No. (1) of 2001 Concerning the Guard of the States Land and Sea Borders.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "1",
+      "year": 2001,
+      "title": "Concerning the Guard of the States Land and Sea Borders",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2001-01-01",
+    "topics": [
+      "justice",
+      "judiciary"
+    ]
+  },
+  {
+    "category": "justice_judiciary",
+    "base_id": "federal#Federal-Decree-Law-13-2021",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Justice and Judiciary-33/Federal Decree by Law No. (13) of 2021 Establishing and Regulating the Federal Judicial Enforcement Office.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "13",
+      "year": 2021,
+      "title": "Establishing and Regulating the Federal Judicial Enforcement Office",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2021-01-01",
+    "topics": [
+      "justice",
+      "judiciary"
+    ]
+  },
+  {
+    "category": "justice_judiciary",
+    "base_id": "federal#Federal-Decree-Law-19-2019",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Justice and Judiciary-33/Federal Decree by Law No. (19) of 2019 Concerning Insolvency.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "19",
+      "year": 2019,
+      "title": "Concerning Insolvency",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2019-01-01",
+    "topics": [
+      "justice",
+      "judiciary"
+    ]
+  },
+  {
+    "category": "justice_judiciary",
+    "base_id": "federal#Federal-Decree-Law-24-2021",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Justice and Judiciary-33/Federal Decree by Law No. (24) of 2021 Concerning the Accountability of Ministers and Senior Federal Officials.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "24",
+      "year": 2021,
+      "title": "Concerning the Accountability of Ministers and Senior Federal Officials",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2021-01-01",
+    "topics": [
+      "justice",
+      "judiciary"
+    ]
+  },
+  {
+    "category": "justice_judiciary",
+    "base_id": "federal#Federal-Decree-Law-33-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Justice and Judiciary-33/Federal Decree by Law No. (33) of 2022 Concerning the Supreme Federal Court.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "33",
+      "year": 2022,
+      "title": "Concerning the Supreme Federal Court",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-01-01",
+    "topics": [
+      "justice",
+      "judiciary"
+    ]
+  },
+  {
+    "category": "justice_judiciary",
+    "base_id": "federal#Federal-Decree-Law-35-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Justice and Judiciary-33/Federal Decree by Law No. (35) of 2022 Promulgating the Law of Evidence in Civil and Commercial Transactions.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "35",
+      "year": 2022,
+      "title": "Promulgating the Law of Evidence in Civil and Commercial Transactions",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-01-01",
+    "topics": [
+      "justice",
+      "judiciary"
+    ]
+  },
+  {
+    "category": "justice_judiciary",
+    "base_id": "federal#Federal-Decree-Law-38-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Justice and Judiciary-33/Federal Decree by Law No. (38) of 2022, Promulgating the Criminal Procedures Law.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "38",
+      "year": 2022,
+      "title": "Promulgating the Criminal Procedures Law",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-01-01",
+    "topics": [
+      "justice",
+      "judiciary"
+    ]
+  },
+  {
+    "category": "justice_judiciary",
+    "base_id": "federal#Federal-Decree-Law-42-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Justice and Judiciary-33/Federal Decree by Law No. (42) of 2022 Promulgating the Civil Procedure Code.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "42",
+      "year": 2022,
+      "title": "Promulgating the Civil Procedure Code",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-01-01",
+    "topics": [
+      "justice",
+      "judiciary"
+    ]
+  },
+  {
+    "category": "justice_judiciary",
+    "base_id": "federal#Federal-Decree-Law-46-2021",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Justice and Judiciary-33/Federal Decree by Law No. (46) of 2021 on Electronic Transactions and Trust Services.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "46",
+      "year": 2021,
+      "title": "on Electronic Transactions and Trust Services",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2021-01-01",
+    "topics": [
+      "justice",
+      "judiciary"
+    ]
+  },
+  {
+    "category": "justice_judiciary",
+    "base_id": "federal#Federal-Decree-Law-32-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Justice and Judiciary-33/Federal Decree by Law No. 32 of 2022 Concerning the Federal Judicial Authority.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "32",
+      "year": 2022,
+      "title": "Concerning the Federal Judicial Authority",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-01-01",
+    "topics": [
+      "justice",
+      "judiciary"
+    ]
+  },
+  {
+    "category": "justice_judiciary",
+    "base_id": "federal#Federal-Decree-Law-4-2012",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Justice and Judiciary-33/Federal Decree by Law No. 4 of 2012 Concerning the Civil Liability for Nuclear Damage.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "4",
+      "year": 2012,
+      "title": "Concerning the Civil Liability for Nuclear Damage",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2012-01-01",
+    "topics": [
+      "justice",
+      "judiciary"
+    ]
+  },
+  {
+    "category": "justice_judiciary",
+    "base_id": "federal#Federal-Decree-Law-16-2021",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Justice and Judiciary-33/Federal Decree- Law No. (16) Of 2021 On Factoring And Transfer Of Receivables.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "16",
+      "year": 2021,
+      "title": "On Factoring And Transfer Of Receivables",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2021-01-01",
+    "topics": [
+      "justice",
+      "judiciary"
+    ]
+  },
+  {
+    "category": "justice_judiciary",
+    "base_id": "federal#Federal-Decree-Law-40-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Justice and Judiciary-33/Federal Decree-Law No. (40) of 2023 on Mediation and Conciliation in Civil and Commercial Disputes.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "40",
+      "year": 2023,
+      "title": "on Mediation and Conciliation in Civil and Commercial Disputes",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-01-01",
+    "topics": [
+      "justice",
+      "judiciary"
+    ]
+  },
+  {
+    "category": "justice_judiciary",
+    "base_id": "federal#Federal-Law-10-2019",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Justice and Judiciary-33/Federal Law No. (10) of 2019 on Regulating Judicial Relations Among the Judicial, Federal and Local Authorities.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "10",
+      "year": 2019,
+      "title": "on Regulating Judicial Relations Among the Judicial, Federal and Local Authorities",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2019-01-01",
+    "topics": [
+      "justice",
+      "judiciary"
+    ]
+  },
+  {
+    "category": "justice_judiciary",
+    "base_id": "federal#Federal-Law-11-2009",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Justice and Judiciary-33/Federal Law No. (11) of 2009 Concerning Martial Laws.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "11",
+      "year": 2009,
+      "title": "Concerning Martial Laws",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2009-01-01",
+    "topics": [
+      "justice",
+      "judiciary"
+    ]
+  },
+  {
+    "category": "justice_judiciary",
+    "base_id": "federal#Federal-Law-13-2016",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Justice and Judiciary-33/Federal Law No. (13) of 2016 Concerning Judicial Fees Before Federal Courts.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "13",
+      "year": 2016,
+      "title": "Concerning Judicial Fees Before Federal Courts",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2016-01-01",
+    "topics": [
+      "justice",
+      "judiciary"
+    ]
+  },
+  {
+    "category": "justice_judiciary",
+    "base_id": "federal#Federal-Law-14-2021",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Justice and Judiciary-33/Federal Law No. (14) of 2021 On the Creation and Regulation of Owners Association.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "14",
+      "year": 2021,
+      "title": "On the Creation and Regulation of Owners Association",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2021-01-01",
+    "topics": [
+      "justice",
+      "judiciary"
+    ]
+  },
+  {
+    "category": "justice_judiciary",
+    "base_id": "federal#Federal-Law-37-2006",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Justice and Judiciary-33/Federal Law No. (37) of 2006 Concerning Private Security Companies.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "37",
+      "year": 2006,
+      "title": "Concerning Private Security Companies",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2006-01-01",
+    "topics": [
+      "justice",
+      "judiciary"
+    ]
+  },
+  {
+    "category": "justice_judiciary",
+    "base_id": "federal#Federal-Law-4-2020",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Justice and Judiciary-33/Federal Law No. (4) of 2020 Regarding Securing the Rights in Movables.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "4",
+      "year": 2020,
+      "title": "Regarding Securing the Rights in Movables",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2020-01-01",
+    "topics": [
+      "justice",
+      "judiciary"
+    ]
+  },
+  {
+    "category": "justice_judiciary",
+    "base_id": "federal#Federal-Law-5-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Justice and Judiciary-33/Federal Law No. (5) Of 2022 Regarding Rehabilitation.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "5",
+      "year": 2022,
+      "title": "Regarding Rehabilitation",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-01-01",
+    "topics": [
+      "justice",
+      "judiciary"
+    ]
+  },
+  {
+    "category": "justice_judiciary",
+    "base_id": "federal#Federal-Law-6-1978",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Justice and Judiciary-33/Federal Law No. (6) of 1978 Regarding Establishing Federal Courts and Transferring Powers of Local Judicial Authorities in Some Emirates to Such Courts.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "6",
+      "year": 1978,
+      "title": "Regarding Establishing Federal Courts and Transferring Powers of Local Judicial Authorities in Some Emirates to Such Courts",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "1978-01-01",
+    "topics": [
+      "justice",
+      "judiciary"
+    ]
+  },
+  {
+    "category": "justice_judiciary",
+    "base_id": "federal#Federal-Law-7-2021",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Justice and Judiciary-33/Federal Law No. (7) of 2021 Repealing Federal Law No. (17) of 1978 Regulating the Events and Procedures of Appeal by Cassation before the Union Supreme Court and its Amendments.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "7",
+      "year": 2021,
+      "title": "Repealing Federal Law No. (17) of 1978 Regulating the Events and Procedures of Appeal by Cassation before the Union Supreme Court and its Amendments",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2021-01-01",
+    "topics": [
+      "justice",
+      "judiciary"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-11-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (11) of 2023 Concerning the Fees for Training and Development Services Provided at the Emirates Health Services Establishment.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "11",
+      "year": 2023,
+      "title": "Concerning the Fees for Training and Development Services Provided at the Emirates Health Services Establishment",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-115-2021",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (115) of 2021 Concerning the Executive Regulations of Federal Law No. (6) of 2010 Concerning Credit Information.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "115",
+      "year": 2021,
+      "title": "Concerning the Executive Regulations of Federal Law No. (6) of 2010 Concerning Credit Information",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2021-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-115-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (115) of 2022 Determining the Fees for Judicial Notifications Through Private Companies or Institutions.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "115",
+      "year": 2022,
+      "title": "Determining the Fees for Judicial Notifications Through Private Companies or Institutions",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-12-2021",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (12) of 2021 Concerning the Fees of Services Provided by the Ministry of Energy and Infrastructure.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "12",
+      "year": 2021,
+      "title": "Concerning the Fees of Services Provided by the Ministry of Energy and Infrastructure",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2021-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-122-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (122) of 2022 Concerning the Fees of Licenses Related to Naturally Occurring Radioactive Material and Certain Activities Carried Out by the Federal Authority for Nuclear Regulation.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "122",
+      "year": 2022,
+      "title": "Concerning the Fees of Licenses Related to Naturally Occurring Radioactive Material and Certain Activities Carried Out by the Federal Authority for Nuclear Regulation",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-122-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (122) of 2024 On Executive Regulation of Federal Law No. (11) of 2023 on Procurement in the Federal Government.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "122",
+      "year": 2024,
+      "title": "On Executive Regulation of Federal Law No. (11) of 2023 on Procurement in the Federal Government",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-13-2021",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (13) of 2021 Concerning the Fees for Services Provided by the Ministry of Industry and Advanced Technology.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "13",
+      "year": 2021,
+      "title": "Concerning the Fees for Services Provided by the Ministry of Industry and Advanced Technology",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2021-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-131-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (131) of 2023 Concerning the Export Fees of Industrial Waste.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "131",
+      "year": 2023,
+      "title": "Concerning the Export Fees of Industrial Waste",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-137-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (137) of 2023 Concerning the Accreditation and Registration of the Trust Instrument.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "137",
+      "year": 2023,
+      "title": "Concerning the Accreditation and Registration of the Trust Instrument",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-14-2021",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (14) of 2021 Regarding the Fees for Services Provided by Ministry of Community Development.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "14",
+      "year": 2021,
+      "title": "Regarding the Fees for Services Provided by Ministry of Community Development",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2021-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-14-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (14) of 2022 Concerning Healthcare Services Fees Provided by Health Establishments of the Emirates Health Services Corporation (EHSC).pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "14",
+      "year": 2022,
+      "title": "Concerning Healthcare Services Fees Provided by Health Establishments of the Emirates Health Services Corporation (EHSC)",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-14-2025",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (14) of 2025 Regarding the Rules for Outsourcing the Collection of Federal Entities Debts.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "14",
+      "year": 2025,
+      "title": "Regarding the Rules for Outsourcing the Collection of Federal Entities Debts",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2025-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-141-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (141) of 2023 Concerning the Requirements for Licensing Professional Legal Persons and Professional Trustees.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "141",
+      "year": 2023,
+      "title": "Concerning the Requirements for Licensing Professional Legal Persons and Professional Trustees",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-15-2025",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (15) of 2025 Regarding the Rules and Conditions for Approving the Federal Entities Debts Installment.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "15",
+      "year": 2025,
+      "title": "Regarding the Rules and Conditions for Approving the Federal Entities Debts Installment",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2025-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-19-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (19) of 2022 Creating a Service Fee for Licensing an Approved Air Carrier.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "19",
+      "year": 2022,
+      "title": "Creating a Service Fee for Licensing an Approved Air Carrier",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-19-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (19) of 2024 Determining the Fees for Transactions Conducted by the Public Notary and the Private Notarys Fees.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "19",
+      "year": 2024,
+      "title": "Determining the Fees for Transactions Conducted by the Public Notary and the Private Notarys Fees",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-20-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (20) of 2024 Concerning the Fees for Services Provided by the Ministry of Justice to Regulate the Profession of Expert Witnesses Before Judicial Authorities.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "20",
+      "year": 2024,
+      "title": "Concerning the Fees for Services Provided by the Ministry of Justice to Regulate the Profession of Expert Witnesses Before Judicial Authorities",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-21-2017",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (21) of 2017 Regarding the Fees for Certain Services Provided by the Securities and Commodities Authority.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "21",
+      "year": 2017,
+      "title": "Regarding the Fees for Certain Services Provided by the Securities and Commodities Authority",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2017-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-21-2020",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (21) of 2020 Regarding the Services Fees and Administrative Fines of the Ministry of Human Resources and Emiratization.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "21",
+      "year": 2020,
+      "title": "Regarding the Services Fees and Administrative Fines of the Ministry of Human Resources and Emiratization",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2020-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-21-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (21) of 2024 Concerning the Fees for Services Provided by the Ministry of Justice to Regulate the Translation Profession.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "21",
+      "year": 2024,
+      "title": "Concerning the Fees for Services Provided by the Ministry of Justice to Regulate the Translation Profession",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-22-2020",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (22) of 2020 Regarding Refunding Bank and Financial Guarantees Given to the Ministry of Human Resources and Emiratization.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "22",
+      "year": 2020,
+      "title": "Regarding Refunding Bank and Financial Guarantees Given to the Ministry of Human Resources and Emiratization",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2020-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-29-2019",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (29) of 2019 Repealing Cabinet Resolution No. (9) of 2014 Concerning the Unified List of Financial and Accounting Policies for Independent Federal Entities.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "29",
+      "year": 2019,
+      "title": "Repealing Cabinet Resolution No. (9) of 2014 Concerning the Unified List of Financial and Accounting Policies for Independent Federal Entities",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2019-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-30-2021",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (30) of 2021 Regarding the Service Fees Provided by the Ministry of Climate Change and Environment.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "30",
+      "year": 2021,
+      "title": "Regarding the Service Fees Provided by the Ministry of Climate Change and Environment",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2021-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-38-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (38) of 2022 Concerning the Attestation Fees of Documents, Bills and Certificates of Origin Provided by the Ministry of Foreign Affairs and International Cooperation.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "38",
+      "year": 2022,
+      "title": "Concerning the Attestation Fees of Documents, Bills and Certificates of Origin Provided by the Ministry of Foreign Affairs and International Cooperation",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-4-2025",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (4) of 2025 Regarding the Fees for Medical Examination for Expatriates Entering the State for Work or Residency and Occupational Health Examinations Provided by Health Facilities Affiliated with Emirates Health Servic.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "4",
+      "year": 2025,
+      "title": "Regarding the Fees for Medical Examination for Expatriates Entering the State for Work or Residency and Occupational Health Examinations Provided by Health Facilities Affiliated with Emirates Health Servic",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2025-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-40-2021",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (40) of 2021 Regarding the Executive Regulations of Federal Decree by Law No. (26) of 2019 Regarding Public Finance.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "40",
+      "year": 2021,
+      "title": "Regarding the Executive Regulations of Federal Decree by Law No. (26) of 2019 Regarding Public Finance",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2021-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-40-2025",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (40) of 2025 Regarding the Service Fees Provided by the Emirates Drug Establishment.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "40",
+      "year": 2025,
+      "title": "Regarding the Service Fees Provided by the Emirates Drug Establishment",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2025-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-42-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (42) of 2022 Repealing Cabinet Resolution No. (36) of 2020 Concerning the Fees for Registering in the Federal Suppliers and Contractors Registers.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "42",
+      "year": 2022,
+      "title": "Repealing Cabinet Resolution No. (36) of 2020 Concerning the Fees for Registering in the Federal Suppliers and Contractors Registers",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-48-2019",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (48) of 2019 Regarding the Fees for Services of Licensing Private Security Companies.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "48",
+      "year": 2019,
+      "title": "Regarding the Fees for Services of Licensing Private Security Companies",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2019-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-51-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (51) of 2024 Concerning Fees for Trust Services and Accredited Trust Services.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "51",
+      "year": 2024,
+      "title": "Concerning Fees for Trust Services and Accredited Trust Services",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-56-2021",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (56) of 2021 Regarding the Fees for Services Provided by Ministry of Education.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "56",
+      "year": 2021,
+      "title": "Regarding the Fees for Services Provided by Ministry of Education",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2021-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-58-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (58) of 2024 Concerning the Fees of Services for Drones for Civil Use and Related Activities.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "58",
+      "year": 2024,
+      "title": "Concerning the Fees of Services for Drones for Civil Use and Related Activities",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-69-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (69) of 2023, Regulating the Issuance of the Government Guarantee.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "69",
+      "year": 2023,
+      "title": "Regulating the Issuance of the Government Guarantee",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-70-2021",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (70) of 2021 Regulating the Trust Register.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "70",
+      "year": 2021,
+      "title": "Regulating the Trust Register",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2021-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-71-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (71) of 2022 Concerning the Federal Government Revenue Collection System.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "71",
+      "year": 2022,
+      "title": "Concerning the Federal Government Revenue Collection System",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-72-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (72) of 2022 Introducing a New Fee on the Application of Grievance Request to Supreme Committee for Medical Liability at the Ministry of Health and Prevention.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "72",
+      "year": 2022,
+      "title": "Introducing a New Fee on the Application of Grievance Request to Supreme Committee for Medical Liability at the Ministry of Health and Prevention",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-76-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (76) of 2023 Concerning the Fees of Services Provided by the Ministry of State for Federal National Councils Affairs.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "76",
+      "year": 2023,
+      "title": "Concerning the Fees of Services Provided by the Ministry of State for Federal National Councils Affairs",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-83-2025",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (83) of 2025 Regarding Fees for Services Provided to Virtual Asset Service Providers.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "83",
+      "year": 2025,
+      "title": "Regarding Fees for Services Provided to Virtual Asset Service Providers",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2025-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-84-2021",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (84) of 2021 Regarding the Fees for Services Provided by the Emirates Schools Establishment.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "84",
+      "year": 2021,
+      "title": "Regarding the Fees for Services Provided by the Emirates Schools Establishment",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2021-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-85-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (85) of 2024 Concerning the Mechanisms for Collecting Contributions Due to the NAFIS Fund.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "85",
+      "year": 2024,
+      "title": "Concerning the Mechanisms for Collecting Contributions Due to the NAFIS Fund",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-88-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (88) of 2022 Concerning Fees for Services Provided by the Federal Authority for Identity, Citizenship, Customs and Ports Security.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "88",
+      "year": 2022,
+      "title": "Concerning Fees for Services Provided by the Federal Authority for Identity, Citizenship, Customs and Ports Security",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-89-2022",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (89) of 2022 Concerning the Administrative Fines for Violations Related to the Services of the Federal Authority for Identity, Citizenship, Customs, and Port Security.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "89",
+      "year": 2022,
+      "title": "Concerning the Administrative Fines for Violations Related to the Services of the Federal Authority for Identity, Citizenship, Customs, and Port Security",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2022-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-93-2021",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Cabinet Resolution No. (93) of 2021 Regarding the Implementation of Certain Provisions of the Multilateral Administrative Agreement for Automatic Exchange of Information.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "93",
+      "year": 2021,
+      "title": "Regarding the Implementation of Certain Provisions of the Multilateral Administrative Agreement for Automatic Exchange of Information",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2021-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Federal-Decree-Law-26-2019",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Federal Decree Law No. (26) of 2019 Regarding Public Finance.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "26",
+      "year": 2019,
+      "title": "Regarding Public Finance",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2019-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Federal-Decree-Law-31-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Federal Decree by Law No (31) of 2023 Concerning Trust.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "31",
+      "year": 2023,
+      "title": "Concerning Trust",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Federal-Decree-Law-35-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Federal Decree by Law No. (35) of 2023 Concerning the Union Owned Properties.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "35",
+      "year": 2023,
+      "title": "Concerning the Union Owned Properties",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Federal-Decree-Law-15-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Federal Decree-Law No. (15) of 2024 on the Collection of Debts of Federal Entities.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "15",
+      "year": 2024,
+      "title": "on the Collection of Debts of Federal Entities",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Federal-Decree-Law-30-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Federal Decree-Law No. (30) of 2024 Regarding Know Your Client Digital Platform.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "30",
+      "year": 2024,
+      "title": "Regarding Know Your Client Digital Platform",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Federal-Decree-Law-31-2024",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Federal Decree-Law No. (31) of 2024 Regarding Netting.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "31",
+      "year": 2024,
+      "title": "Regarding Netting",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2024-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Federal-Decree-Law-6-2025",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Federal Decree-Law No. (6) of 2025  Regarding the Central Bank, Regulation of Financial Institutions and Activities, and Insurance Business.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "6",
+      "year": 2025,
+      "title": "Regarding the Central Bank, Regulation of Financial Institutions and Activities, and Insurance Business",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2025-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Federal-Decree-Law-9-2018",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Federal Decree-Law No. (9) of 2018 Regarding Public Debt.pdf",
+    "instrument": {
+      "type": "Federal Decree-Law",
+      "number": "9",
+      "year": 2018,
+      "title": "Regarding Public Debt",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2018-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Federal-Law-11-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Federal Law No. (11) of 2023 Concerning Procurement in the Federal Government.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "11",
+      "year": 2023,
+      "title": "Concerning Procurement in the Federal Government",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Federal-Law-12-2023",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Federal Law No. (12) of 2023  on Regulating the Federal Public-Private Partnerships (PPP).pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "12",
+      "year": 2023,
+      "title": "on Regulating the Federal Public-Private Partnerships (PPP)",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2023-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Federal-Law-6-2010",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/Federal Law No. (6) of 2010 on Credit Information.pdf",
+    "instrument": {
+      "type": "Federal Law",
+      "number": "6",
+      "year": 2010,
+      "title": "on Credit Information",
+      "issuer": "President of the United Arab Emirates",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2010-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "finance_banking",
+    "base_id": "federal#Cabinet-Resolution-89-2021",
+    "pdf_rel_path": "../法律条文文件下载/联邦法/Finance and Banking-55/cabinet resolution no. (89) of 2021 regarding the formation and the rules of procedure of the grievances and appeals committee (gac) established pursuant to the provisions of federal decree by law no. (14) of 2018 regarding the central bank.pdf",
+    "instrument": {
+      "type": "Cabinet Resolution",
+      "number": "89",
+      "year": 2021,
+      "title": "regarding the formation and the rules of procedure of the grievances and appeals committee (gac) established pursuant to the provisions of federal decree by law no. (14) of 2018 regarding the central bank",
+      "issuer": "UAE Cabinet",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "UAE Legislation Portal",
+      "url": "https://uaelegislation.gov.ae/en",
+      "gazette": null
+    },
+    "effective_from": "2021-01-01",
+    "topics": [
+      "finance",
+      "fees"
+    ]
+  },
+  {
+    "category": "abu_property_housing",
+    "base_id": "abu_dhabi#Law-1-2020",
+    "pdf_rel_path": "../法律条文文件下载/Abu DHABI LAW/PROPERTY LAWS-4/Law No. (1) of 2020 Regulating the Real Estate Sector in the Emirate of Abu Dhabi.pdf",
+    "instrument": {
+      "type": "Law",
+      "number": "1",
+      "year": 2020,
+      "title": "Regulating the Real Estate Sector in the Emirate of Abu Dhabi",
+      "issuer": "Government of Abu Dhabi",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "DARI Law Directory",
+      "url": "https://services.dari.ae/law-directory-cat/regulation-of-the-real-estate-sector-law-services/",
+      "gazette": null
+    },
+    "effective_from": "2020-01-01",
+    "topics": [
+      "abu_dhabi",
+      "real_estate",
+      "property"
+    ]
+  },
+  {
+    "category": "abu_property_housing",
+    "base_id": "abu_dhabi#Law-3-2005",
+    "pdf_rel_path": "../法律条文文件下载/Abu DHABI LAW/PROPERTY LAWS-4/Law No. (3) of 2005 Regulating the Real Estate Register in the Emirate of Abu Dhabi.pdf",
+    "instrument": {
+      "type": "Law",
+      "number": "3",
+      "year": 2005,
+      "title": "Regulating the Real Estate Register in the Emirate of Abu Dhabi",
+      "issuer": "Government of Abu Dhabi",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "DARI Law Directory",
+      "url": "https://services.dari.ae/law-directory",
+      "gazette": null
+    },
+    "effective_from": "2005-01-01",
+    "topics": [
+      "abu_dhabi",
+      "real_estate",
+      "property"
+    ]
+  },
+  {
+    "category": "abu_property_housing",
+    "base_id": "abu_dhabi#Law-19-2005",
+    "pdf_rel_path": "../法律条文文件下载/Abu DHABI LAW/PROPERTY LAWS-4/Law No. (19) of 2005 Concerning Real Property in the Emirate of Abu Dhabi.pdf",
+    "instrument": {
+      "type": "Law",
+      "number": "19",
+      "year": 2005,
+      "title": "Concerning Real Property in the Emirate of Abu Dhabi",
+      "issuer": "Government of Abu Dhabi",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "DARI Law Directory",
+      "url": "https://services.dari.ae/law-directory",
+      "gazette": null
+    },
+    "effective_from": "2005-09-01",
+    "topics": [
+      "abu_dhabi",
+      "real_estate",
+      "property"
+    ]
+  },
+  {
+    "category": "abu_property_housing",
+    "base_id": "abu_dhabi#Law-20-2006",
+    "pdf_rel_path": "../法律条文文件下载/Abu DHABI LAW/PROPERTY LAWS-4/Law No. (20) of 2006 Concerning the Leasing of Spaces and Regulating Leasing Relations in Abu Dhabi.pdf",
+    "instrument": {
+      "type": "Law",
+      "number": "20",
+      "year": 2006,
+      "title": "Concerning the Leasing of Spaces and Regulating Leasing Relations in Abu Dhabi",
+      "issuer": "Government of Abu Dhabi",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "DARI Law Directory",
+      "url": "https://services.dari.ae/law-directory",
+      "gazette": null
+    },
+    "effective_from": "2006-01-01",
+    "topics": [
+      "abu_dhabi",
+      "real_estate",
+      "property"
+    ]
+  },
+  {
+    "category": "abu_official_gazette",
+    "base_id": "abu_dhabi#Gazette-2023-01",
+    "pdf_rel_path": "../法律条文文件下载/Abu DHABI LAW/公报/2023-11/1st Edition English 2023.pdf",
+    "instrument": {
+      "type": "Official Gazette",
+      "number": "1st Edition",
+      "year": 2023,
+      "title": "Abu Dhabi Official Gazette (1st Edition 2023)",
+      "issuer": "Government of Abu Dhabi",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "Abu Dhabi Official Gazette",
+      "url": "https://www.adjd.gov.ae/en/gazette",
+      "gazette": null
+    },
+    "effective_from": "2023-01-01",
+    "topics": [
+      "abu_dhabi",
+      "gazette"
+    ]
+  },
+  {
+    "category": "abu_official_gazette",
+    "base_id": "abu_dhabi#Gazette-2023-02",
+    "pdf_rel_path": "../法律条文文件下载/Abu DHABI LAW/公报/2023-11/2nd Edition English 2023.pdf",
+    "instrument": {
+      "type": "Official Gazette",
+      "number": "2nd Edition",
+      "year": 2023,
+      "title": "Abu Dhabi Official Gazette (2nd Edition 2023)",
+      "issuer": "Government of Abu Dhabi",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "Abu Dhabi Official Gazette",
+      "url": "https://www.adjd.gov.ae/en/gazette",
+      "gazette": null
+    },
+    "effective_from": "2023-02-01",
+    "topics": [
+      "abu_dhabi",
+      "gazette"
+    ]
+  },
+  {
+    "category": "abu_official_gazette",
+    "base_id": "abu_dhabi#Gazette-2023-03",
+    "pdf_rel_path": "../法律条文文件下载/Abu DHABI LAW/公报/2023-11/3rd Edition English 2023.pdf",
+    "instrument": {
+      "type": "Official Gazette",
+      "number": "3rd Edition",
+      "year": 2023,
+      "title": "Abu Dhabi Official Gazette (3rd Edition 2023)",
+      "issuer": "Government of Abu Dhabi",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "Abu Dhabi Official Gazette",
+      "url": "https://www.adjd.gov.ae/en/gazette",
+      "gazette": null
+    },
+    "effective_from": "2023-03-01",
+    "topics": [
+      "abu_dhabi",
+      "gazette"
+    ]
+  },
+  {
+    "category": "abu_official_gazette",
+    "base_id": "abu_dhabi#Gazette-2023-05",
+    "pdf_rel_path": "../法律条文文件下载/Abu DHABI LAW/公报/2023-11/5th Edition English 2023.pdf",
+    "instrument": {
+      "type": "Official Gazette",
+      "number": "5th Edition",
+      "year": 2023,
+      "title": "Abu Dhabi Official Gazette (5th Edition 2023)",
+      "issuer": "Government of Abu Dhabi",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "Abu Dhabi Official Gazette",
+      "url": "https://www.adjd.gov.ae/en/gazette",
+      "gazette": null
+    },
+    "effective_from": "2023-05-01",
+    "topics": [
+      "abu_dhabi",
+      "gazette"
+    ]
+  },
+  {
+    "category": "abu_official_gazette",
+    "base_id": "abu_dhabi#Gazette-2023-06",
+    "pdf_rel_path": "../法律条文文件下载/Abu DHABI LAW/公报/2023-11/6th Edition English 2023.pdf",
+    "instrument": {
+      "type": "Official Gazette",
+      "number": "6th Edition",
+      "year": 2023,
+      "title": "Abu Dhabi Official Gazette (6th Edition 2023)",
+      "issuer": "Government of Abu Dhabi",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "Abu Dhabi Official Gazette",
+      "url": "https://www.adjd.gov.ae/en/gazette",
+      "gazette": null
+    },
+    "effective_from": "2023-06-01",
+    "topics": [
+      "abu_dhabi",
+      "gazette"
+    ]
+  },
+  {
+    "category": "abu_official_gazette",
+    "base_id": "abu_dhabi#Gazette-2023-07",
+    "pdf_rel_path": "../法律条文文件下载/Abu DHABI LAW/公报/2023-11/7th Edition English 2023.pdf",
+    "instrument": {
+      "type": "Official Gazette",
+      "number": "7th Edition",
+      "year": 2023,
+      "title": "Abu Dhabi Official Gazette (7th Edition 2023)",
+      "issuer": "Government of Abu Dhabi",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "Abu Dhabi Official Gazette",
+      "url": "https://www.adjd.gov.ae/en/gazette",
+      "gazette": null
+    },
+    "effective_from": "2023-07-01",
+    "topics": [
+      "abu_dhabi",
+      "gazette"
+    ]
+  },
+  {
+    "category": "abu_official_gazette",
+    "base_id": "abu_dhabi#Gazette-2023-08",
+    "pdf_rel_path": "../法律条文文件下载/Abu DHABI LAW/公报/2023-11/8th Edition English 2023.pdf",
+    "instrument": {
+      "type": "Official Gazette",
+      "number": "8th Edition",
+      "year": 2023,
+      "title": "Abu Dhabi Official Gazette (8th Edition 2023)",
+      "issuer": "Government of Abu Dhabi",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "Abu Dhabi Official Gazette",
+      "url": "https://www.adjd.gov.ae/en/gazette",
+      "gazette": null
+    },
+    "effective_from": "2023-08-01",
+    "topics": [
+      "abu_dhabi",
+      "gazette"
+    ]
+  },
+  {
+    "category": "abu_official_gazette",
+    "base_id": "abu_dhabi#Gazette-2023-09",
+    "pdf_rel_path": "../法律条文文件下载/Abu DHABI LAW/公报/2023-11/9th Edition English 2023.pdf",
+    "instrument": {
+      "type": "Official Gazette",
+      "number": "9th Edition",
+      "year": 2023,
+      "title": "Abu Dhabi Official Gazette (9th Edition 2023)",
+      "issuer": "Government of Abu Dhabi",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "Abu Dhabi Official Gazette",
+      "url": "https://www.adjd.gov.ae/en/gazette",
+      "gazette": null
+    },
+    "effective_from": "2023-09-01",
+    "topics": [
+      "abu_dhabi",
+      "gazette"
+    ]
+  },
+  {
+    "category": "abu_official_gazette",
+    "base_id": "abu_dhabi#Gazette-2023-10",
+    "pdf_rel_path": "../法律条文文件下载/Abu DHABI LAW/公报/2023-11/10th Edition English 2023.pdf",
+    "instrument": {
+      "type": "Official Gazette",
+      "number": "10th Edition",
+      "year": 2023,
+      "title": "Abu Dhabi Official Gazette (10th Edition 2023)",
+      "issuer": "Government of Abu Dhabi",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "Abu Dhabi Official Gazette",
+      "url": "https://www.adjd.gov.ae/en/gazette",
+      "gazette": null
+    },
+    "effective_from": "2023-10-01",
+    "topics": [
+      "abu_dhabi",
+      "gazette"
+    ]
+  },
+  {
+    "category": "abu_official_gazette",
+    "base_id": "abu_dhabi#Gazette-2023-11",
+    "pdf_rel_path": "../法律条文文件下载/Abu DHABI LAW/公报/2023-11/11th Edition English 2023.pdf",
+    "instrument": {
+      "type": "Official Gazette",
+      "number": "11th Edition",
+      "year": 2023,
+      "title": "Abu Dhabi Official Gazette (11th Edition 2023)",
+      "issuer": "Government of Abu Dhabi",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "Abu Dhabi Official Gazette",
+      "url": "https://www.adjd.gov.ae/en/gazette",
+      "gazette": null
+    },
+    "effective_from": "2023-11-01",
+    "topics": [
+      "abu_dhabi",
+      "gazette"
+    ]
+  },
+  {
+    "category": "abu_official_gazette",
+    "base_id": "abu_dhabi#Gazette-2023-12",
+    "pdf_rel_path": "../法律条文文件下载/Abu DHABI LAW/公报/2023-11/12th Edition English 2023.pdf",
+    "instrument": {
+      "type": "Official Gazette",
+      "number": "12th Edition",
+      "year": 2023,
+      "title": "Abu Dhabi Official Gazette (12th Edition 2023)",
+      "issuer": "Government of Abu Dhabi",
+      "official_language": "English"
+    },
+    "source": {
+      "portal": "Abu Dhabi Official Gazette",
+      "url": "https://www.adjd.gov.ae/en/gazette",
+      "gazette": null
+    },
+    "effective_from": "2023-12-01",
+    "topics": [
+      "abu_dhabi",
+      "gazette"
+    ]
   }
 ]

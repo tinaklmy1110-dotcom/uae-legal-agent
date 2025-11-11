@@ -1,9 +1,23 @@
 import Link from "next/link";
+import { Suspense } from "react";
+import { headers } from "next/headers";
 
 import CitationBlock from "../../../components/CitationBlock";
 import TranslationPanel from "../../../components/TranslationPanel";
+import { buildLocatorBreadcrumb, extractHeadingFromPath } from "../../../lib/structure";
 
 export const dynamic = "force-dynamic";
+
+const LoadingState = () => (
+  <main className="mx-auto flex max-w-5xl flex-col gap-8 px-4 py-12">
+    <div className="animate-pulse space-y-4">
+      <div className="h-4 w-40 rounded bg-gray-200" />
+      <div className="h-8 w-2/3 rounded bg-gray-200" />
+      <div className="h-4 w-1/2 rounded bg-gray-200" />
+    </div>
+    <div className="h-64 rounded-xl border border-gray-200 bg-white" />
+  </main>
+);
 
 const API_BASE_URL =
   process.env.INTERNAL_API_BASE_URL ??
@@ -64,10 +78,14 @@ async function fetchLegalSlice(id: string): Promise<LegalSlice> {
 
 type PageProps = {
   params: { id: string };
+  searchParams?: { q?: string };
 };
 
-export default async function ResultDetailPage({ params }: PageProps) {
+async function ResultDetailView({ params, searchParams }: PageProps) {
   const decodedId = decodeURIComponent(params.id);
+  const referer = searchParams?.q
+    ? `/?q=${encodeURIComponent(searchParams.q)}`
+    : headers().get("referer") ?? "/";
   let data: LegalSlice | null = null;
   try {
     data = await fetchLegalSlice(decodedId);
@@ -83,17 +101,27 @@ export default async function ResultDetailPage({ params }: PageProps) {
     throw error;
   }
 
+  const locatorBreadcrumb = buildLocatorBreadcrumb(
+    data.structure.locators,
+    data.structure.path,
+  );
+  const locatorHeading = extractHeadingFromPath(data.structure.path);
+
   return (
     <main className="mx-auto flex max-w-5xl flex-col gap-8 px-4 py-12">
       <div>
-        <Link href="/" className="text-sm text-primary hover:underline">
+        <Link href={referer || "/"} className="text-sm text-primary hover:underline">
           ← 返回检索
         </Link>
         <h1 className="mt-4 text-3xl font-bold text-neutral">
           {data.instrument.title}
         </h1>
-        <p className="mt-2 text-sm text-muted">
-          {data.structure.path} · {data.jurisdiction.name} · {data.instrument.year}
+        <p className="mt-2 text-sm text-muted">{locatorBreadcrumb}</p>
+        {locatorHeading ? (
+          <p className="text-xs text-muted">{locatorHeading}</p>
+        ) : null}
+        <p className="text-xs text-muted">
+          {data.jurisdiction.name} · {data.instrument.year}
         </p>
       </div>
 
@@ -138,5 +166,13 @@ export default async function ResultDetailPage({ params }: PageProps) {
         免责声明：信息检索工具，非法律意见；以官方文本为准（DIFC/ADGM 英文为权威；联邦英文多为参考译文）。
       </p>
     </main>
+  );
+}
+
+export default function ResultDetailPage(props: PageProps) {
+  return (
+    <Suspense fallback={<LoadingState />}>
+      <ResultDetailView {...props} />
+    </Suspense>
   );
 }

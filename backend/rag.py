@@ -6,7 +6,13 @@ from sqlalchemy.orm import Session
 
 from . import search
 from .models import LegalSlice
-from .schema import AnswerResponse, Citation, SearchRequest, SearchResponse
+from .schema import (
+    AnswerResponse,
+    Citation,
+    SearchRequest,
+    SearchResponse,
+    StructureLocators,
+)
 from .utils.text_clean import truncate_for_snippet
 
 DISCLAIMER = (
@@ -16,10 +22,20 @@ DISCLAIMER = (
 
 def build_citation(slice_obj: LegalSlice) -> Citation:
     snippet = truncate_for_snippet(slice_obj.text_content, max_chars=200)
+    locators = StructureLocators(
+        part=slice_obj.part,
+        chapter=slice_obj.chapter,
+        section=slice_obj.section,
+        article=slice_obj.article,
+        rule=slice_obj.rule,
+        clause=slice_obj.clause,
+        item=slice_obj.item,
+    )
     return Citation(
         id=slice_obj.id,
         instrument_title=slice_obj.title,
         structure_path=slice_obj.path,
+        structure_locators=locators,
         source_url=slice_obj.url,
         gazette=slice_obj.gazette,
         snippet=snippet,
@@ -40,6 +56,7 @@ def run_search(session: Session, payload: SearchRequest) -> SearchResponse:
         as_of=payload.as_of,
     )
     ranked = search.hybrid_search(session, payload.query, filters, limit=8)
+    ranked = search.boost_ranked_results(ranked, payload.query)
     slices = _materialise(ranked)
     citations = [build_citation(item) for item in slices]
     return SearchResponse(query=payload.query, items=citations)

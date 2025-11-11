@@ -88,6 +88,7 @@ class Citation(BaseModel):
     id: str
     instrument_title: str
     structure_path: str
+    structure_locators: Optional[StructureLocators] = None
     source_url: str
     gazette: Optional[str] = None
     snippet: str

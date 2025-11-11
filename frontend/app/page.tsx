@@ -1,6 +1,7 @@
 'use client';
 
 import { useCallback, useEffect, useMemo, useState } from "react";
+import { useRouter, useSearchParams } from "next/navigation";
 
 import FilterPanel from "../components/FilterPanel";
 import LawCard, { type Citation } from "../components/LawCard";
@@ -15,7 +16,11 @@ type SearchResponse = {
 };
 
 export default function HomePage() {
-  const [query, setQuery] = useState("");
+  const router = useRouter();
+  const searchParams = useSearchParams();
+  const initialQuery = searchParams.get("q") ?? "";
+
+  const [query, setQuery] = useState(initialQuery);
   const [jurisdiction, setJurisdiction] = useState<string | undefined>();
   const [topics, setTopics] = useState<string[]>([]);
   const [asOf, setAsOf] = useState<string | undefined>();
@@ -56,9 +61,25 @@ export default function HomePage() {
     [],
   );
 
-  const handleSearch = (value: string) => {
-    setQuery(value);
-  };
+  useEffect(() => {
+    setQuery(initialQuery);
+  }, [initialQuery]);
+
+  const handleSearch = useCallback(
+    (value: string) => {
+      const nextQuery = value.trim();
+      if (!nextQuery) {
+        return;
+      }
+      const params = new URLSearchParams(
+        Array.from(searchParams.entries()),
+      );
+      params.set("q", nextQuery);
+      router.push(`/?${params.toString()}`, { scroll: false });
+      setQuery(nextQuery);
+    },
+    [router, searchParams],
+  );
 
   useEffect(() => {
     if (!query) {
@@ -98,7 +119,7 @@ export default function HomePage() {
               基于官方条文切片的本地 RAG 检索，覆盖联邦、酋长国与自由区法规，支持主题/日期筛选与强制引用。
             </p>
           </header>
-          <SearchBar onSearch={handleSearch} defaultQuery="tenancy deposit" isLoading={isLoading} />
+          <SearchBar onSearch={handleSearch} defaultQuery={query || ""} isLoading={isLoading} />
           {error ? (
             <div className="rounded-lg border border-red-200 bg-red-50 px-4 py-3 text-sm text-red-700">
               {error}
@@ -123,6 +144,7 @@ export default function HomePage() {
                   key={item.id}
                   citation={item}
                   highlightTerms={highlightTerms}
+                  currentQuery={query}
                 />
               ))}
               {!results.length && !isLoading ? (

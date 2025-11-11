@@ -1,6 +1,6 @@
 'use client';
 
-import { FormEvent, useState } from "react";
+import { FormEvent, useEffect, useState } from "react";
 
 type SearchBarProps = {
   defaultQuery?: string;
@@ -10,6 +10,10 @@ type SearchBarProps = {
 
 export default function SearchBar({ defaultQuery = "", onSearch, isLoading = false }: SearchBarProps) {
   const [value, setValue] = useState(defaultQuery);
+
+  useEffect(() => {
+    setValue(defaultQuery);
+  }, [defaultQuery]);
 
   const handleSubmit = (event: FormEvent<HTMLFormElement>) => {
     event.preventDefault();
