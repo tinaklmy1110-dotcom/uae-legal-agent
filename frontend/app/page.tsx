@@ -1,5 +1,4 @@
-'use client';
-
+import { Suspense } from "react";
 import { useCallback, useEffect, useMemo, useState } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 
@@ -10,15 +9,18 @@ import SearchBar from "../components/SearchBar";
 const API_BASE_URL =
   process.env.NEXT_PUBLIC_API_BASE_URL ?? "http://localhost:8000";
 
+export const dynamic = "force-dynamic";
+
 type SearchResponse = {
   query: string;
   items: Citation[];
 };
 
-export default function HomePage() {
+function HomeClient({ initialQuery }: { initialQuery: string }) {
+  "use client";
+
   const router = useRouter();
   const searchParams = useSearchParams();
-  const initialQuery = searchParams.get("q") ?? "";
 
   const [query, setQuery] = useState(initialQuery);
   const [jurisdiction, setJurisdiction] = useState<string | undefined>();
@@ -170,5 +172,27 @@ export default function HomePage() {
         </div>
       </div>
     </main>
+  );
+}
+
+function LoadingState() {
+  return (
+    <main className="min-h-screen bg-slate-50 pb-16">
+      <div className="mx-auto flex max-w-6xl flex-col gap-8 px-4 py-12">
+        <div className="h-10 w-1/2 animate-pulse rounded bg-gray-200" />
+        <div className="h-32 w-full animate-pulse rounded-xl border border-gray-200 bg-white" />
+      </div>
+    </main>
+  );
+}
+
+type PageProps = { searchParams?: { q?: string } };
+
+export default function HomePage({ searchParams }: PageProps) {
+  const initialQuery = searchParams?.q ?? "";
+  return (
+    <Suspense fallback={<LoadingState />}>
+      <HomeClient initialQuery={initialQuery} />
+    </Suspense>
   );
 }
