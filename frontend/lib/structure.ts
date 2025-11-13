@@ -19,13 +19,13 @@ const LOCATOR_LABELS: Record<keyof StructureLocators, string> = {
 };
 
 const LOCATOR_ORDER: Array<keyof StructureLocators> = [
-  "part",
-  "chapter",
-  "section",
-  "article",
-  "rule",
-  "clause",
   "item",
+  "clause",
+  "rule",
+  "article",
+  "section",
+  "chapter",
+  "part",
 ];
 
 export function buildLocatorBreadcrumb(

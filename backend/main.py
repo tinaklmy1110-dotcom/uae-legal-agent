@@ -5,6 +5,7 @@ from typing import Generator
 
 from fastapi import Depends, FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import JSONResponse
 from sqlalchemy.orm import Session
 
 from .db import get_session, init_db
@@ -94,15 +95,37 @@ def _startup() -> None:
     init_db()
 
 
-frontend_origin = os.getenv("FRONTEND_ORIGIN", "http://localhost:3000")
+frontend_origin = os.getenv("FRONTEND_ORIGIN", "http://localhost:3001")
+frontend_origins_raw = os.getenv("FRONTEND_ORIGINS")
+allowed_origins = (
+    [
+        origin.strip()
+        for origin in frontend_origins_raw.split(",")
+        if origin.strip()
+    ]
+    if frontend_origins_raw
+    else [frontend_origin]
+)
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[frontend_origin],
+    allow_origins=allowed_origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+
+@app.get("/", include_in_schema=False)
+def root() -> JSONResponse:
+    return JSONResponse(
+        {"message": "UAE Legal Agent API", "docs_url": "/docs", "status": "ok"}
+    )
+
+
+@app.get("/healthz", include_in_schema=False)
+def healthz() -> JSONResponse:
+    return JSONResponse({"status": "ok"})
 
 
 @app.post("/search", response_model=SearchResponse)
